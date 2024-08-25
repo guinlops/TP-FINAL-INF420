@@ -3,114 +3,91 @@ from dotenv import load_dotenv
 import os
 import base64
 from requests import post,get
+from lyricsgenius import Genius
+import re
 
+def remover_caracteres_nao_suportados(song):
+   song = re.sub(r'\u200b', '',song)
+   song = re.sub(r'\u0435', '',song)
+   return song
+def remover_marcadores(musica):
+  # Expressão regular para encontrar os marcadores
+  padrao = r"\[Verse \d+\]|\[Chorus\]"
 
-def get_letra_vagalume(artist, song, api_key):
-    """
-    Busca a letra de uma música no Vagalume.
+  # Remove todos os marcadores encontrados
+  musica_limpa = re.sub(padrao, "", musica)
 
-    Args:
-        artist: Nome do artista.
-        song: Nome da música.
-        api_key: Chave de API do Vagalume.
+  return musica_limpa
+def remover_primeira_linha(texto):
+    linhas = texto.splitlines()
+    return '\n'.join(linhas[1:])
+def string_treatment(song):
+    
+    song=remover_primeira_linha(song)
+    song=remover_marcadores(song)
+    song=remover_caracteres_nao_suportados(song)
+    song = str.join(" ", song.splitlines())
+    return song
+   
 
-    Returns:
-        A letra da música, caso encontrada. Caso contrário, retorna None.
-    """
-
-    url = f"https://api.vagalume.com.br/search.php?art={artist}&mus={song}&apikey={api_key}"
-    response = get(url)
-
-    if response.status_code == 200:
-        data = response.json()
-        if data.get('mus'):
-            return data['mus'][0]['text']
-        else:
-            return "Letra não encontrada."
-    else:
-        return "Erro ao buscar a letra."
-
-# Exemplo de uso
-#artist = "U2"
-#song = "One"
-api_key = "YOUR_API_KEY"  # Substitua pela sua chave API
 
 #letra = get_letra_vagalume(artist, song, api_key)
 #print(letra)
 
+load_dotenv()
+client_id=os.getenv("CLIENT_ID")
+client_secret=os.getenv("CLIENT_SECRET")
+token=os.getenv("G_CLIENT_ACCESS_TOKEN")
+genius = Genius(token)
 
 
 
+def print_letras(arquivo, database_file):
+    
 
-# def print_letras(arquivo, database_file, api_key):
-#     """
-#     Imprime as letras das músicas em um novo arquivo.
-
-#     Args:
-#         arquivo: Nome do arquivo com as informações das músicas.
-#         database_file: Nome do arquivo de saída.
-#         api_key: Chave de API do Vagalume.
-#     """
-
-#     with open(database_file, "w", encoding="utf-8") as database:
-#         database.write("Track_name;Artist_Name;genra;lyrics\n")
-
-#         with open(arquivo, "r", encoding="utf-8") as file:
-#             for line in file:
-#                 # Ignora a primeira linha (cabeçalho)
-#                 if line.strip().startswith("Track_name"):
-#                     continue
-
-#                 # Separa os campos da linha
-#                 track_name, artist_name, genre = line.strip().split(';')
-
-#                 # Busca a letra no Vagalume
-#                 letra = get_letra_vagalume(artist_name, track_name, api_key)
-
-#                 # Imprime a linha com a letra
-#                 database.write(f"{track_name};{artist_name};{genre};{letra}\n")
-
-# ... (função get_letra_vagalume)
-
-
-
-def print_letras(arquivo, database_file, api_key):
-    """
-    Imprime as letras das músicas em um novo arquivo, com a letra em uma única célula.
-
-    Args:
-        arquivo: Nome do arquivo com as informações das músicas.
-        database_file: Nome do arquivo de saída.
-        api_key: Chave de API do Vagalume.
-    """
-
-    with open(database_file, "w", encoding="utf-8") as database:
+    with open(database_file, "w") as database:
         database.write("Track_name;Artist_Name;genra;lyrics\n")
 
-        with open(arquivo, "r", encoding="utf-8") as file:
+        with open(arquivo, "r") as file:
             for line in file:
                 # Ignora a primeira linha (cabeçalho)
                 if line.strip().startswith("Track_name"):
                     continue
-
+                
                 # Separa os campos da linha
                 track_name, artist_name, genre = line.strip().split(';')
 
                 # Busca a letra no Vagalume
-                letra = get_letra_vagalume(artist_name, track_name, api_key)
+                #letra = get_letra_vagalume(artist_name, track_name, api_key)
+                
+                try:
+                    song=genius.search_song(track_name, artist_name)
+                    # Escapa aspas duplas dentro da letra
+                    #letra_escaped = letra.replace('"', '""')
+                    if(song!=None):
+                        song_lyrics= string_treatment(song.lyrics)
+                except:
+                    print(f"Nao consegui adicionar {track_name}")
+                finally:
 
-                # Escapa aspas duplas dentro da letra
-                letra_escaped = letra.replace('"', '""')
+                    # Envolve a letra entre aspas duplas
+                    #letra_formatada = f'"{letra_escaped}"'
 
-                # Envolve a letra entre aspas duplas
-                letra_formatada = f'"{letra_escaped}"'
-
-                # Imprime a linha com a letra formatada
-                database.write(f"{track_name};{artist_name};{genre};{letra_formatada}\n")
+                    # Imprime a linha com a letra formatada
+                    try:
+                        database.write(f"{track_name};{artist_name};{genre};{song_lyrics};\n")
+                    except:
+                        print("Erro ao imprimir")
+                    
 
 
 # Exemplo de uso
 arquivo = "teste.txt"
 database_file = "database.txt"
-api_key = "YOUR_API_KEY"
-print_letras(arquivo, database_file, api_key)
+
+def main():
+    
+    print_letras(arquivo, database_file)
+
+if __name__ == '__main__':
+    main()
