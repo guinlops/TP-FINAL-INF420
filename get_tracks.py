@@ -91,15 +91,15 @@ def get_playlist_obj(token, playlist_name):
 
 
 
-def print_tracks(tracks):
+def print_tracks(tracks,playlist_genra):
     
     try:
         with open("arquivo.txt", "w") as arquivo:
-            print("Track_name; Artist_Name",file=arquivo)
+            print("Track_name;Artist_Name;genra",file=arquivo)
             for track in tracks:
                 song_name = track["track"]["name"]
                 artist_name = track["track"]["artists"][0]["name"]
-                print(f"{song_name};{artist_name}", file=arquivo)
+                print(f"{song_name};{artist_name};{playlist_genra}", file=arquivo)
     except FileNotFoundError:
         print("Erro: O arquivo não foi encontrado.")
     except PermissionError:
@@ -107,15 +107,15 @@ def print_tracks(tracks):
     except Exception as e:
         print(f"Erro inesperado ao escrever no arquivo: {str(e)}")
 
-def get_playlist(playlist_name):
+def get_playlist(playlist_name,playlist_genra):
      playlist_obj=get_playlist_obj(token,playlist_name)
      playlist_id=playlist_obj['id']
      tracks=get_playlist_tracks(token,playlist_id)
-     print_tracks(tracks)
+     print_tracks(tracks,playlist_genra)
 
 
 def main():
-    get_playlist("lofi beats") 
+    get_playlist("Rock Classics","rock") 
 
 if __name__ == '__main__':
     main()
