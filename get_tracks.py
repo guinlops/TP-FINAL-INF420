@@ -94,7 +94,7 @@ def get_playlist_obj(token, playlist_name):
 def print_tracks(tracks,playlist_genra):
     
     try:
-        with open("arquivo.txt", "w") as arquivo:
+        with open("tracks.txt", "w") as arquivo:
             print("Track_name;Artist_Name;genra",file=arquivo)
             for track in tracks:
                 song_name = track["track"]["name"]
@@ -115,7 +115,7 @@ def get_playlist(playlist_name,playlist_genra):
 
 
 def main():
-    get_playlist("Rock Classics","rock") 
+    get_playlist("Country Gold","country") 
 
 if __name__ == '__main__':
     main()

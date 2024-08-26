@@ -8,3 +8,6 @@ Repositório usado para o trabalho Final de INF420
 
     Playlists Usadas:
             get_playlist("Rock Classics","rock") 
+            get_playlist("Hinos Pop","pop") 
+            get_playlist("Gold School","hip-hop") 
+            get_playlist("Country Gold","country") 

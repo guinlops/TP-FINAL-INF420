@@ -68,6 +68,7 @@ def print_letras(arquivo, database_file):
                         song_lyrics= string_treatment(song.lyrics)
                 except:
                     print(f"Nao consegui adicionar {track_name}")
+                    song_lyrics=""
                 finally:
 
                     # Envolve a letra entre aspas duplas
@@ -82,7 +83,7 @@ def print_letras(arquivo, database_file):
 
 
 # Exemplo de uso
-arquivo = "teste.txt"
+arquivo = "tracks.txt"
 database_file = "database.txt"
 
 def main():

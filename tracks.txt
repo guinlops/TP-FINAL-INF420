@@ -1,101 +1,96 @@
 Track_name;Artist_Name;genra
-Hotel California - 2013 Remaster;Eagles;rock
-Paint It, Black;The Rolling Stones;rock
-Fortunate Son;Creedence Clearwater Revival;rock
-Sweet Child O' Mine;Guns N' Roses;rock
-Seven Nation Army;The White Stripes;rock
-Thunderstruck;AC/DC;rock
-Dream On;Aerosmith;rock
-Enter Sandman;Metallica;rock
-Smoke on the Water;Deep Purple;rock
-La Grange - 2005 Remaster;ZZ Top;rock
-Everlong;Foo Fighters;rock
-Come As You Are;Nirvana;rock
-Californication;Red Hot Chili Peppers;rock
-Creep;Radiohead;rock
-Dreams - 2004 Remaster;Fleetwood Mac;rock
-Stairway to Heaven - Remaster;Led Zeppelin;rock
-Don't Stop Believin';Journey;rock
-I Love Rock 'N Roll;Joan Jett & the Blackhearts;rock
-Sultans of Swing;Dire Straits;rock
-Wonderwall (Remastered);Oasis;rock
-Back In Black;AC/DC;rock
-Say It Ain't So;Weezer;rock
-Zombie;The Cranberries;rock
-Bohemian Rhapsody - Remastered 2011;Queen;rock
-Dust in the Wind;Kansas;rock
-Runaway;Bon Jovi;rock
-Another One Bites The Dust - Remastered 2011;Queen;rock
-Paradise City;Guns N' Roses;rock
-Basket Case;Green Day;rock
-Losing My Religion;R.E.M.;rock
-House Of The Rising Sun;The Animals;rock
-Have You Ever Seen The Rain;Creedence Clearwater Revival;rock
-Another Brick in the Wall, Pt. 2;Pink Floyd;rock
-Jump - 2015 Remaster;Van Halen;rock
-You Shook Me All Night Long;AC/DC;rock
-Long Cool Woman (In a Black Dress) - 1999 Remaster;The Hollies;rock
-Paranoid;Black Sabbath;rock
-Welcome To The Jungle;Guns N' Roses;rock
-November Rain - 2022 Version;Guns N' Roses;rock
-Free Bird;Lynyrd Skynyrd;rock
-The Chain;Fleetwood Mac;rock
-Every Breath You Take - Remastered 2003;The Police;rock
-(I Can't Get No) Satisfaction - Mono Version;The Rolling Stones;rock
-Whole Lotta Love - 1990 Remaster;Led Zeppelin;rock
-Under the Bridge;Red Hot Chili Peppers;rock
-Kickstart My Heart;Mötley Crüe;rock
-Edge of Seventeen - 2016 Remaster;Stevie Nicks;rock
-Bad Moon Rising;Creedence Clearwater Revival;rock
-Mary Jane's Last Dance;Tom Petty and the Heartbreakers;rock
-Under Pressure - Remastered 2011;Queen;rock
-Sharp Dressed Man - 2008 Remaster;ZZ Top;rock
-Are You Gonna Go My Way;Lenny Kravitz;rock
-Killing In The Name;Rage Against The Machine;rock
-Master of Puppets (Remastered);Metallica;rock
-Song 2 - 2012 Remaster;Blur;rock
-Once in a Lifetime - 2005 Remaster;Talking Heads;rock
-More Than a Feeling;Boston;rock
-Carry on Wayward Son;Kansas;rock
-Heart-Shaped Box;Nirvana;rock
-Psycho Killer - 2005 Remaster;Talking Heads;rock
-Sweet Home Alabama;Lynyrd Skynyrd;rock
-Livin' On A Prayer;Bon Jovi;rock
-Slow Ride - Edit;Foghat;rock
-Should I Stay or Should I Go - Remastered;The Clash;rock
-Crazy Train;Ozzy Osbourne;rock
-Don't Cry (Original);Guns N' Roses;rock
-Immigrant Song - Remaster;Led Zeppelin;rock
-In The Air Tonight - 2015 Remastered;Phil Collins;rock
-Come Together - Remastered 2009;The Beatles;rock
-Rock You Like a Hurricane - 2015 - Remaster;Scorpions;rock
-Bitter Sweet Symphony - Remastered 2016;The Verve;rock
-For What It's Worth;Buffalo Springfield;rock
-Riders on the Storm;The Doors;rock
-American Woman - 7" Single Version;The Guess Who;rock
-Mr. Blue Sky;Electric Light Orchestra;rock
-Where Is My Mind? - 2007 Remaster;Pixies;rock
-One Way Or Another - Remastered 2001;Blondie;rock
-All Right Now;Free;rock
-Black Hole Sun;Soundgarden;rock
-White Wedding - Pt. 1;Billy Idol;rock
-Rocket Man (I Think It's Going To Be A Long, Long Time);Elton John;rock
-Black Dog - Remaster;Led Zeppelin;rock
-Gimme Shelter;The Rolling Stones;rock
-Won't Get Fooled Again - Original Album Version;The Who;rock
-Detroit Rock City;KISS;rock
-All Along the Watchtower;Jimi Hendrix;rock
-Uprising;Muse;rock
-Message In A Bottle;The Police;rock
-You Really Got Me - 2015 Remaster;Van Halen;rock
-Barracuda;Heart;rock
-Smells Like Teen Spirit;Nirvana;rock
-Mr. Brightside;The Killers;rock
-1979 - Remastered 2012;The Smashing Pumpkins;rock
-Fly Away;Lenny Kravitz;rock
-I Hate Myself for Loving You;Joan Jett & the Blackhearts;rock
-Last Nite;The Strokes;rock
-Black Magic Woman - Single Version;Santana;rock
-The Boys Are Back In Town;Thin Lizzy;rock
-No One Knows;Queens of the Stone Age;rock
-Where The Streets Have No Name - Remastered;U2;rock
+Wine, Beer, Whiskey;Little Big Town;country
+Tennessee Whiskey;Chris Stapleton;country
+I Hope You’re Happy Now;Carly Pearce;country
+Colder Weather;Zac Brown Band;country
+Fast Car;Luke Combs;country
+Church Bells;Carrie Underwood;country
+Buy Dirt;Jordan Davis;country
+Merry Go 'Round;Kacey Musgraves;country
+Wagon Wheel;Darius Rucker;country
+Humble And Kind;Tim McGraw;country
+Love Story (Taylor’s Version);Taylor Swift;country
+Parachute;Chris Stapleton;country
+Die From A Broken Heart;Maddie & Tae;country
+She Got the Best of Me;Luke Combs;country
+You and Tequila (feat. Grace Potter);Kenny Chesney;country
+Before He Cheats;Carrie Underwood;country
+Suds in the Bucket;Sara Evans;country
+Night Shift;Jon Pardi;country
+Boondocks;Little Big Town;country
+Things a Man Oughta Know;Lainey Wilson;country
+Forever After All;Luke Combs;country
+Austin;Blake Shelton;country
+Springsteen;Eric Church;country
+Rumor;Lee Brice;country
+American Honey;Lady A;country
+It's A Great Day To Be Alive;Travis Tritt;country
+My Church;Maren Morris;country
+Head Over Boots;Jon Pardi;country
+Die A Happy Man;Thomas Rhett;country
+Gunpowder & Lead;Miranda Lambert;country
+Drink In My Hand;Eric Church;country
+Good Directions;Billy Currington;country
+As Good As I Once Was;Toby Keith;country
+Every Little Thing;Carly Pearce;country
+One Of Them Girls;Lee Brice;country
+Heartache On The Dance Floor;Jon Pardi;country
+What Ifs (feat. Lauren Alaina);Kane Brown;country
+Something Like That;Tim McGraw;country
+What Was I Thinkin';Dierks Bentley;country
+Would You Go With Me;Josh Turner;country
+Alright;Darius Rucker;country
+Hotel Key;Old Dominion;country
+Peter Pan;Kelsea Ballerini;country
+Get Along;Kenny Chesney;country
+The Good Ones;Gabby Barrett;country
+Picture (feat. Sheryl Crow);Kid Rock;country
+Tequila Makes Her Clothes Fall Off;Joe Nichols;country
+Amazed;Lonestar;country
+Somebody Like You;Keith Urban;country
+Hell Of A View;Eric Church;country
+In Color;Jamey Johnson;country
+God's Country;Blake Shelton;country
+Girl Crush;Little Big Town;country
+If You're Going Through Hell (Before The Devil Even Knows);Rodney Atkins;country
+Drive (For Daddy Gene);Alan Jackson;country
+Blue Ain't Your Color;Keith Urban;country
+Record Year;Eric Church;country
+Somewhere On A Beach;Dierks Bentley;country
+Road Less Traveled;Lauren Alaina;country
+She Thinks My Tractor's Sexy;Kenny Chesney;country
+Whiskey Glasses;Morgan Wallen;country
+Bluebird;Miranda Lambert;country
+Do I Make You Wanna;Billy Currington;country
+I'm Comin' Over;Chris Young;country
+Redneck Woman;Gretchen Wilson;country
+More Hearts Than Mine;Ingrid Andress;country
+The House That Built Me;Miranda Lambert;country
+Talladega;Eric Church;country
+Burning Man;Dierks Bentley;country
+Mama's Broken Heart;Miranda Lambert;country
+I Go Back;Kenny Chesney;country
+Blown Away;Carrie Underwood;country
+I Could Use a Love Song;Maren Morris;country
+half of my hometown (feat. Kenny Chesney);Kelsea Ballerini;country
+Stay A Little Longer;Brothers Osborne;country
+Follow Your Arrow;Kacey Musgraves;country
+Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album];Miranda Lambert;country
+Burning House;Cam;country
+Homesick;Kane Brown;country
+One Night Standards;Ashley McBryde;country
+Wilder Days;Morgan Wade;country
+Good Vibes;Chris Janson;country
+Better Man;Little Big Town;country
+Famous Friends;Chris Young;country
+I'm Not For Everyone;Brothers Osborne;country
+Cold Beer Calling My Name;Jameson Rodgers;country
+Pretty Heart;Parker McCollum;country
+Day Drinking;Little Big Town;country
+I Hold On;Dierks Bentley;country
+Caught Up In The Country;Rodney Atkins;country
+Done;Chris Janson;country
+Mean;Taylor Swift;country
+Mine Would Be You;Blake Shelton;country
+Ain't Nothing 'Bout You;Brooks & Dunn;country
+I Run To You;Lady A;country
