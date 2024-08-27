@@ -1,0 +1,929 @@
+Track_name;Artist_Name;genra;
+Billie Jean;Michael Jackson;pop
+Rock with You - Single Version;Michael Jackson;pop
+Chicago;Michael Jackson;pop
+Remember the Time;Michael Jackson;pop
+Beat It;Michael Jackson;pop
+Don't Stop 'Til You Get Enough;Michael Jackson;pop
+Smooth Criminal - ;Michael Jackson;pop
+Love Never Felt So Good;Michael Jackson;pop
+P.Y.T. (Pretty Young Thing);Michael Jackson;pop
+They Don't Care About Us;Michael Jackson;pop
+The Way You Make Me Feel - ;Michael Jackson;pop
+Heal the World;Michael Jackson;pop
+Human Nature;Michael Jackson;pop
+Heaven Can Wait;Michael Jackson;pop
+You Are Not Alone;Michael Jackson;pop
+Black or White;Michael Jackson;pop
+Thriller;Michael Jackson;pop
+Off the Wall;Michael Jackson;pop
+Man in the Mirror - ;Michael Jackson;pop
+You Rock My World;Michael Jackson;pop
+The Girl Is Mine (with Paul McCartney);Michael Jackson;pop
+Don't Matter To Me (with Michael Jackson);Drake;pop
+Bad - ;Michael Jackson;pop
+Say Say Say -  ;Paul McCartney;pop
+Earth Song;Michael Jackson;pop
+Ben - Single Version;Michael Jackson;pop
+I Just Can't Stop Loving You (feat. Siedah Garrett) - ;Michael Jackson;pop
+Dirty Diana;Michael Jackson;pop
+Hold My Hand (with Akon);Michael Jackson;pop
+Give In to Me;Michael Jackson;pop
+Liberian Girl -   Version;Michael Jackson;pop
+Butterflies;Michael Jackson;pop
+Blood on the Dance Floor;Michael Jackson;pop
+Will You Be There - Single Version;Michael Jackson;pop
+I Can't Help It;Michael Jackson;pop
+Jam;Michael Jackson;pop
+A Place With No Name;Michael Jackson;pop
+Stranger in Moscow;Michael Jackson;pop
+Workin' Day and Night;Michael Jackson;pop
+In the Closet;Michael Jackson;pop
+One Day In Your Life;Michael Jackson;pop
+Scream;Michael Jackson;pop
+Ghosts;Michael Jackson;pop
+She's Out of My Life - Single Version;Michael Jackson;pop
+Break of Dawn;Michael Jackson;pop
+Slave to the Rhythm;Michael Jackson;pop
+Come Together;Michael Jackson;pop
+Unbreakable;Michael Jackson;pop
+Blue Gangsta;Michael Jackson;pop
+Kiss;Prince;pop
+Purple Rain;Prince;pop
+Raspberry Beret;Prince;pop
+The Most Beautiful Girl In the World;Prince;pop
+1999;Prince;pop
+When Doves Cry;Prince;pop
+I Wanna Be Your Lover;Prince;pop
+Cream - Without Rap Monologue;Prince;pop
+Little Red Corvette - ;Prince;pop
+Let's Go Crazy;Prince;pop
+Sign 'O' the Times;Prince;pop
+Money Don't Matter 2 Night;Prince;pop
+Erotic City - Let's Go Crazy 7" B-Side Edit; ;Prince;pop
+I Would Die 4 U;Prince;pop
+While My Guitar Gently Weeps;Tom Petty;pop
+Diamonds and Pearls;Prince;pop
+Purple Rain - 7" Single Edit; ;Prince;pop
+Baby I'm a Star;Prince;pop
+Soft and Wet;Prince;pop
+U Got The Look - rince;pop
+Nothing Compares 2 U;Prince;pop
+Take Me with U;Prince;pop
+7;Prince;pop
+Partyman;Prince;pop
+Thieves in the Temple;Prince;pop
+Pop Life;Prince;pop
+Controversy;Prince;pop
+Musicology;Prince;pop
+Adore - rince;pop
+Darling Nikki -  Paisley Park;Prince;pop
+Sometimes It Snows in April;Prince;pop
+Silver Tongue;Prince;pop
+Delirious - ;Prince;pop
+My Love Is Forever;Prince;pop
+Call My Name;Prince;pop
+I Feel for You;Prince;pop
+Anotherloverholenyohead;Prince;pop
+Gett Off;Prince;pop
+Sexy M.F.;Prince;pop
+Starfish and Coffee;Prince;pop
+Mountains;Prince;pop
+Insatiable;Prince;pop
+When You Were Mine;Prince;pop
+Batdance;Prince;pop
+Girls & Boys;Prince;pop
+A Case of U;Prince;pop
+Betcha By Golly Wow!;Prince;pop
+Gold;Prince;pop
+Dear Mr. Man;Prince;pop
+Chelsea Rodgers;Prince;pop
+Cold Heart - PNAU Remix;Elton John;pop
+I'm Still Standing;Elton John;pop
+Your Song;Elton John;pop
+Rocket Man (I Think It's Going To Be A Long, Long Time);Elton John;pop
+Don't Go Breaking My Heart;Elton John;pop
+Sacrifice;Elton John;pop
+Tiny Dancer;Elton John;pop
+Daniel;Elton John;pop
+Goodbye Yellow Brick Road -  ;Elton John;pop
+I Guess That's Why They Call It The Blues;Elton John;pop
+Hold Me Closer;Elton John;pop
+Crocodile Rock;Elton John;pop
+Bennie And The Jets -  ;Elton John;pop
+Nikita;Elton John;pop
+That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder);Dionne Warwick;pop
+Sorry Seems To Be The Hardest Word;Elton John;pop
+Candle In The Wind -  ;Elton John;pop
+Don't Let the Sun Go Down on Me;George Michael;pop
+Cold Heart - Acoustic;Elton John;pop
+Can You Feel The Love Tonight - ;Elton John;pop
+Saturday Night's Alright (For Fighting) -  ;Elton John;pop
+Skyline Pigeon - Piano Version;Elton John;pop
+Don't Let The Sun Go Down On Me -  1995;Elton John;pop
+Ghetto Gospel;2Pac;pop
+Mona Lisas And Mad Hatters;Elton John;pop
+Something About The Way You Look Tonight - Edit Version;Elton John;pop
+Blue Eyes -  ;Elton John;pop
+Are You Ready For Love? - ;Elton John;pop
+Little Jeannie;Elton John;pop
+The One;Elton John;pop
+Sorry Seems To Be The Hardest Word;Ray Charles;pop
+Philadelphia Freedom;Elton John;pop
+Sad Songs (Say So Much);Elton John;pop
+Honky Cat;Elton John;pop
+Levon;Elton John;pop
+Someone Saved My Life Tonight;Elton John;pop
+The Bitch Is Back -  1995;Elton John;pop
+Nothing Else Matters;Miley Cyrus;pop
+Learn To Fly;Surfaces;pop
+Blessed;Elton John;pop
+I Don't Wanna Go On With You Like That;Elton John;pop
+Circle Of Life - ;Elton John;pop
+Empty Garden (Hey Hey Johnny) -  ;Elton John;pop
+You Gotta Love Someone;Elton John;pop
+Ordinary Man (feat. Elton John);Ozzy Osbourne;pop
+Song For Guy;Elton John;pop
+Back To Paramount;Elton John;pop
+Saturday Night's Alright (For Fighting);Orville Peck;pop
+I Want Love;Elton John;pop
+The Pink Phantom (feat. Elton John and 6LACK);Gorillaz;pop
+I Wanna Dance with Somebody (Who Loves Me);Whitney Houston;pop
+Higher Love;Kygo;pop
+I Will Always Love You;Whitney Houston;pop
+Saving All My Love for You;Whitney Houston;pop
+Where Do Broken Hearts Go;Whitney Houston;pop
+My Love Is Your Love;Whitney Houston;pop
+I Have Nothing;Whitney Houston;pop
+Greatest Love of All;Whitney Houston;pop
+Didn't We Almost Have It All;Whitney Houston;pop
+When You Believe - from The Prince of Egypt;Whitney Houston;pop
+Run to You;Whitney Houston;pop
+How Will I Know;Whitney Houston;pop
+One Moment in Time;Whitney Houston;pop
+It's Not Right But It's Okay;Whitney Houston;pop
+Could I Have This Kiss Forever;Enrique Iglesias;pop
+All at Once;Whitney Houston;pop
+I'm Every Woman;Whitney Houston;pop
+I Look to You;Whitney Houston;pop
+Exhale (Shoop Shoop) - from "Waiting to Exhale" - Original Soundtrack;Whitney Houston;pop
+All The Man That I Need;Whitney Houston;pop
+So Emotional;Whitney Houston;pop
+You Give Good Love;Whitney Houston;pop
+Try It On My Own;Whitney Houston;pop
+I'm Your Baby Tonight;Whitney Houston;pop
+I Will Always Love You - Film Version;Whitney Houston;pop
+Heartbreak Hotel (feat. Faith Evans & Kelly Price);Whitney Houston;pop
+Step by Step;Whitney Houston;pop
+Million Dollar Bill;Whitney Houston;pop
+Hold Me (with Teddy Pendergrass);Whitney Houston;pop
+Miracle;Whitney Houston;pop
+Queen of the Night - Radio Edit;Whitney Houston;pop
+I Didn't Know My Own Strength;Whitney Houston;pop
+I Believe In You And Me - Film Version;Whitney Houston;pop
+Count On Me - from "Waiting to Exhale" - Original Soundtrack;Whitney Houston;pop
+For the Love of You;Whitney Houston;pop
+I Learned from the Best;Whitney Houston;pop
+If I Told You That (feat. George Michael) - Radio Edit;Whitney Houston;pop
+I Love The Lord (with Georgia Mass Choir);Whitney Houston;pop
+Same Script, Different Cast;Whitney Houston;pop
+Like I Never Left (feat. Akon);Whitney Houston;pop
+One Of Those Days;Whitney Houston;pop
+I Believe In You And Me;Barry Manilow;pop
+Love Will Save the Day;Whitney Houston;pop
+Call You Tonight;Whitney Houston;pop
+You Light Up My Life;Whitney Houston;pop
+Jesus Loves Me;Whitney Houston;pop
+Something In Common;Whitney Houston;pop
+Lover for Life;Whitney Houston;pop
+The Prince Of Egypt (When You Believe);Mariah Carey;pop
+Why Does It Hurt So Bad - from "Waiting to Exhale" - Original Soundtrack;Whitney Houston;pop
+La Isla Bonita;Madonna;pop
+Vogue;Madonna;pop
+Hung Up;Madonna;pop
+Like a Prayer;Madonna;pop
+Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series);The Weeknd;pop
+4 Minutes (feat. Justin Timberlake & Timbaland);Madonna;pop
+Like a Virgin;Madonna;pop
+Crazy for You - Edit;Madonna;pop
+Papa Don't Preach;Madonna;pop
+Material Girl;Madonna;pop
+Frozen;Madonna;pop
+Sorry (with Madonna);BLOND:ISH;pop
+Holiday;Madonna;pop
+Into the Groove;Madonna;pop
+The Power of Good-Bye;Madonna;pop
+Sorry;Madonna;pop
+Live to Tell;Madonna;pop
+Take a Bow;Madonna;pop
+Ray of Light;Madonna;pop
+Music;Madonna;pop
+True Blue;Madonna;pop
+Who's That Girl;Madonna;pop
+Jump;Madonna;pop
+Borderline;Madonna;pop
+Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix];Dua Lipa;pop
+Don't Tell Me;Madonna;pop
+Me Against the Music (feat. Madonna) - LP Version / Video Mix;Britney Spears;pop
+Open Your Heart;Madonna;pop
+Nothing Really Matters;Madonna;pop
+American Pie;Madonna;pop
+VULGAR (with Madonna);Sam Smith;pop
+Express Yourself;Madonna;pop
+Secret;Madonna;pop
+Give It 2 Me;Madonna;pop
+Rain;Madonna;pop
+Your Little Body's Slowly Breaking Down;Madonna;pop
+Vogue - Edit;Madonna;pop
+I'll Remember (Theme from the Motion Picture With Honors);Madonna;pop
+Get Together;Madonna;pop
+Back That Up To The Beat - demo version;Madonna;pop
+Lucky Star;Madonna;pop
+You'll See;Madonna;pop
+Don't Cry for Me Argentina;Madonna;pop
+Bitch I'm Madonna;Madonna;pop
+Girl Gone Wild;Madonna;pop
+This Used to Be My Playground;Madonna;pop
+BREAK MY SOUL - THE QUEENS REMIX;Beyonce;pop
+Forbidden Love;Madonna;pop
+Medellin (with Maluma);Madonna;pop
+Hollywood;Madonna;pop
+Drowned World / Substitute for Love;Madonna;pop
+Frozen On Fire;Madonna;pop
+Faz Gostoso (feat. Anitta);Madonna;pop
+Die Another Day;Madonna;pop
+II MOST WANTED;Beyonce;pop
+TEXAS HOLD 'EM;Beyonce;pop
+CUFF IT;Beyonce;pop
+JOLENE;Beyonce;pop
+Crazy In Love (feat. Jay-Z);Beyonce;pop
+16 CARRIAGES;Beyonce;pop
+BREAK MY SOUL;Beyonce;pop
+BODYGUARD;Beyonce;pop
+Love On Top;Beyonce;pop
+Drunk in Love (feat. Jay-Z);Beyonce;pop
+RIIVERDANCE;Beyonce;pop
+Halo;Beyonce;pop
+Single Ladies (Put a Ring on It);Beyonce;pop
+Irreplaceable;Beyonce;pop
+Die With A Smile;Lady Gaga;pop
+Telephone;Lady Gaga;pop
+Poker Face;Lady Gaga;pop
+The Edge Of Glory;Lady Gaga;pop
+Bad Romance;Lady Gaga;pop
+Born This Way;Lady Gaga;pop
+Applause;Lady Gaga;pop
+Always Remember Us This Way;Lady Gaga;pop
+Rain On Me (with Ariana Grande);Lady Gaga;pop
+Alejandro;Lady Gaga;pop
+You And I;Lady Gaga;pop
+Million Reasons;Lady Gaga;pop
+Judas;Lady Gaga;pop
+Shallow - Radio Edit;Lady Gaga;pop
+Paparazzi;Lady Gaga;pop
+Hold My Hand;Lady Gaga;pop
+Free Woman;Lady Gaga;pop
+Bloody Mary;Lady Gaga;pop
+Just Dance;Lady Gaga;pop
+Marry The Night;Lady Gaga;pop
+Stupid Love;Lady Gaga;pop
+Joanne;Lady Gaga;pop
+G.U.Y.;Lady Gaga;pop
+911;Lady Gaga;pop
+LoveGame;Lady Gaga;pop
+Perfect Illusion;Lady Gaga;pop
+Hair Body Face;Lady Gaga;pop
+The Cure;Lady Gaga;pop
+Alice;Lady Gaga;pop
+Hey Girl;Lady Gaga;pop
+Teeth;Lady Gaga;pop
+Hair;Lady Gaga;pop
+Venus;Lady Gaga;pop
+Sour Candy (with BLACKPINK);Lady Gaga;pop
+Look What I Found;Lady Gaga;pop
+Government Hooker;Lady Gaga;pop
+John Wayne;Lady Gaga;pop
+ARTPOP;Lady Gaga;pop
+A-YO;Lady Gaga;pop
+Babylon;Lady Gaga;pop
+Dancin' In Circles;Lady Gaga;pop
+So Happy I Could Die;Lady Gaga;pop
+Replay;Lady Gaga;pop
+Speechless;Lady Gaga;pop
+Beautiful, Dirty, Rich;Lady Gaga;pop
+Do What U Want;Lady Gaga;pop
+The Fame;Lady Gaga;pop
+Til It Happens To You;Lady Gaga;pop
+I've Got You Under My Skin;Tony Bennett;pop
+ScheiBe;Lady Gaga;pop
+That's The Way Love Goes;Janet Jackson;pop
+Got 'Til It's Gone;Janet Jackson;pop
+All For You;Janet Jackson;pop
+Let's Wait Awhile;Janet Jackson;pop
+Again;Janet Jackson;pop
+Together Again;Janet Jackson;pop
+Call On Me;Janet Jackson;pop
+When I Think Of You;Janet Jackson;pop
+Any Time, Any Place;Janet Jackson;pop
+Scream;Michael Jackson;pop
+Escapade;Janet Jackson;pop
+I Get Lonely;Janet Jackson;pop
+The Best Things In Life Are Free - Classic 7" With Rap;Janet Jackson;pop
+If;Janet Jackson;pop
+Feel It Boy;Beenie Man;pop
+Someone To Call My Lover;Janet Jackson;pop
+Together Again;Janet Jackson;pop
+Nasty;Janet Jackson;pop
+Every Time;Janet Jackson;pop
+Runaway;Janet Jackson;pop
+Miss You Much;Janet Jackson;pop
+What's It Gonna Be?! (feat. Janet Jackson);Busta Rhymes;pop
+Go Deep;Janet Jackson;pop
+The Pleasure Principle;Janet Jackson;pop
+Rhythm Nation;Janet Jackson;pop
+Doesn't Really Matter;Janet Jackson;pop
+Feedback;Janet Jackson;pop
+Funny How Time Flies (When You're Having Fun);Janet Jackson;pop
+Love Will Never Do (Without You);Janet Jackson;pop
+Made For Now;Janet Jackson;pop
+Interlude - Twisted Elegance;Janet Jackson;pop
+What Have You Done For Me Lately;Janet Jackson;pop
+Come Back To Me;Janet Jackson;pop
+All Nite (Don't Stop);Janet Jackson;pop
+Would You Mind;Janet Jackson;pop
+Rock With U;Janet Jackson;pop
+You Want This;Janet Jackson;pop
+Black Cat;Janet Jackson;pop
+BURNITUP! (feat. Missy Elliott);Janet Jackson;pop
+Luv Me, Luv Me;Shaggy;pop
+Where Are You Now;Janet Jackson;pop
+So Excited;Janet Jackson;pop
+No Sleeep (feat. J. Cole);Janet Jackson;pop
+Whoops Now - Single Version;Janet Jackson;pop
+Feels So Right;Janet Jackson;pop
+R&B Junkie;Janet Jackson;pop
+Diamonds;Herb Alpert;pop
+Enjoy;Janet Jackson;pop
+Son Of A Gun (I Betcha Think This Song Is About You);Janet Jackson;pop
+I Want You;Janet Jackson;pop
+Toxic;Britney Spears;pop
+...Baby One More Time;Britney Spears;pop
+Oops!...I Did It Again;Britney Spears;pop
+Gimme More;Britney Spears;pop
+Hold Me Closer;Elton John;pop
+Womanizer;Britney Spears;pop
+Scream & Shout;will.i.am;pop
+Sometimes;Britney Spears;pop
+Criminal;Britney Spears;pop
+Circus;Britney Spears;pop
+Lucky;Britney Spears;pop
+(You Drive Me) Crazy;Britney Spears;pop
+I'm a Slave 4 U;Britney Spears;pop
+If U Seek Amy;Britney Spears;pop
+Everytime;Britney Spears;pop
+Stronger;Britney Spears;pop
+I Wanna Go;Britney Spears;pop
+Work Bitch;Britney Spears;pop
+Overprotected - Radio Edit;Britney Spears;pop
+Piece of Me;Britney Spears;pop
+Till the World Ends;Britney Spears;pop
+Born to Make You Happy;Britney Spears;pop
+I'm Not a Girl, Not Yet a Woman;Britney Spears;pop
+Get Back;Britney Spears;pop
+Me Against the Music (feat. Madonna) - LP Version / Video Mix;Britney Spears;pop
+S&M Remix;Rihanna;pop
+3;Britney Spears;pop
+Break the Ice;Britney Spears;pop
+I Love Rock 'N' Roll;Britney Spears;pop
+Hold It Against Me;Britney Spears;pop
+My Prerogative;Britney Spears;pop
+Radar;Britney Spears;pop
+Slumber Party;Britney Spears;pop
+From the Bottom of My Broken Heart;Britney Spears;pop
+Don't Let Me Be the Last to Know;Britney Spears;pop
+Pretty Girls;Britney Spears;pop
+Make Me... (feat. G-Eazy);Britney Spears;pop
+Breathe on Me;Britney Spears;pop
+Get Naked (I Got a Plan);Britney Spears;pop
+Boys;Britney Spears;pop
+Matches;Britney Spears;pop
+Outrageous;Britney Spears;pop
+MIND YOUR BUSINESS;will.i.am;pop
+Perfume;Britney Spears;pop
+What U See (Is What U Get);Britney Spears;pop
+Kill the Lights;Britney Spears;pop
+Ooh La La (from "The Smurfs 2");Britney Spears;pop
+Cinderella;Britney Spears;pop
+(I Got That) Boom Boom (feat. Ying Yang Twins);Britney Spears;pop
+Shattered Glass;Britney Spears;pop
+Love On The Brain;Rihanna;pop
+We Found Love;Rihanna;pop
+This Is What You Came For;Calvin Harris;pop
+Love The Way You Lie;Eminem;pop
+Only Girl (In The World);Rihanna;pop
+Umbrella;Rihanna;pop
+Needed Me;Rihanna;pop
+FourFiveSeconds;Rihanna;pop
+S&M;Rihanna;pop
+Don't Stop The Music;Rihanna;pop
+Kiss It Better;Rihanna;pop
+Pon de Replay;Rihanna;pop
+The Monster;Eminem;pop
+Take A Bow;Rihanna;pop
+Rude Boy;Rihanna;pop
+LOYALTY. FEAT. RIHANNA.;Kendrick Lamar;pop
+Work;Rihanna;pop
+Disturbia;Rihanna;pop
+Diamonds;Rihanna;pop
+SOS;Rihanna;pop
+Wild Thoughts (feat. Rihanna & Bryson Tiller);DJ Khaled;pop
+Breakin' Dishes;Rihanna;pop
+Stay;Rihanna;pop
+Run This Town;JAY-Z;pop
+Can't Remember to Forget You (feat. Rihanna);Shakira;pop
+Hate That I Love You;Rihanna;pop
+Loveeeeeee Song;Rihanna;pop
+What's My Name?;Rihanna;pop
+Where Have You Been;Rihanna;pop
+Woo;Rihanna;pop
+Who's That Chick? (feat. Rihanna);David Guetta;pop
+Take Care;Drake;pop
+Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By;Rihanna;pop
+Princess of China;Coldplay;pop
+Too Good;Drake;pop
+Bitch Better Have My Money;Rihanna;pop
+Consideration;Rihanna;pop
+Live Your Life;T.I.;pop
+Unfaithful;Rihanna;pop
+You Da One;Rihanna;pop
+Man Down;Rihanna;pop
+Pour It Up;Rihanna;pop
+If It's Lovin' That You Want;Rihanna;pop
+Dancing In The Dark - From The "Home" Soundtrack;Rihanna;pop
+Te Amo;Rihanna;pop
+Nobody's Business;Rihanna;pop
+California King Bed;Rihanna;pop
+We Ride;Rihanna;pop
+Bad (feat. Rihanna) - Remix;Wale;pop
+Talk That Talk;Rihanna;pop
+Die With A Smile;Lady Gaga;pop
+When I Was Your Man;Bruno Mars;pop
+That's What I Like;Bruno Mars;pop
+Just the Way You Are;Bruno Mars;pop
+It Will Rain;Bruno Mars;pop
+Locked out of Heaven;Bruno Mars;pop
+Uptown Funk (feat. Bruno Mars);Mark Ronson;pop
+Talking to the Moon;Bruno Mars;pop
+Versace on the Floor;Bruno Mars;pop
+Leave The Door Open;Bruno Mars;pop
+Treasure;Bruno Mars;pop
+The Lazy Song;Bruno Mars;pop
+24K Magic;Bruno Mars;pop
+Nothin' on You (feat. Bruno Mars);B.o.B;pop
+Nothing on You;B.o.B;pop
+Marry You;Bruno Mars;pop
+Billionaire (feat. Bruno Mars);Travie McCoy;pop
+Please Me;Cardi B;pop
+Wake Up in the Sky;Gucci Mane;pop
+Grenade;Bruno Mars;pop
+Young, Wild & Free (feat. Bruno Mars);Snoop Dogg;pop
+Smokin Out The Window;Bruno Mars;pop
+Finesse - Remix; feat. Cardi B;Bruno Mars;pop
+Count on Me;Bruno Mars;pop
+Mirror;Lil Wayne;pop
+After Last Night (with Thundercat & Bootsy Collins);Bruno Mars;pop
+Chunky;Bruno Mars;pop
+If I Knew;Bruno Mars;pop
+Lighters;Bad Meets Evil;pop
+Skate;Bruno Mars;pop
+Too Good to Say Goodbye;Bruno Mars;pop
+Young Girls;Bruno Mars;pop
+Grenade - Acoustic;Bruno Mars;pop
+Love's Train;Bruno Mars;pop
+Straight up & Down;Bruno Mars;pop
+Show Me;Bruno Mars;pop
+BLOW (with Chris Stapleton & Bruno Mars);Ed Sheeran;pop
+Silk Sonic Intro;Bruno Mars;pop
+Versace on the Floor (Bruno Mars vs. David Guetta);Bruno Mars;pop
+Catch a Grenade - The Hooligans Remix;Bruno Mars;pop
+Leave The Door Open ;Bruno Mars;pop
+That's What I Like - Alan Walker Remix;Bruno Mars;pop
+24K Magic - R3hab Remix;Bruno Mars;pop
+We Belong Together;Mariah Carey;pop
+Always Be My Baby;Mariah Carey;pop
+Obsessed;Mariah Carey;pop
+Hero;Mariah Carey;pop
+Touch My Body;Mariah Carey;pop
+Fantasy;Mariah Carey;pop
+My All;Mariah Carey;pop
+Without You;Mariah Carey;pop
+Bye Bye;Mariah Carey;pop
+One Sweet Day;Mariah Carey;pop
+When You Believe - from The Prince of Egypt;Whitney Houston;pop
+Endless Love (with Mariah Carey);Luther Vandross;pop
+I Know What You Want (feat. Flipmode Squad);Busta Rhymes;pop
+Against All Odds (Take A Look at Me Now) (feat. Westlife);Mariah Carey;pop
+Thank God I Found You ;Mariah Carey;pop
+Angels Cry Remix - Remix;Mariah Carey;pop
+I Stay In Love;Mariah Carey;pop
+Love Takes Time;Mariah Carey;pop
+Heartbreaker (feat. Jay-Z);Mariah Carey;pop
+Dreamlover;Mariah Carey;pop
+Emotions;Mariah Carey;pop
+Shake It Off;Mariah Carey;pop
+Big Energy (feat. DJ Khaled) - Remix;Latto;pop
+Made For Me (with Mariah Carey);Muni Long;pop
+Honey;Mariah Carey;pop
+Vision of Love;Mariah Carey;pop
+I Still Believe;Mariah Carey;pop
+I Want To Know What Love Is;Mariah Carey;pop
+Through The Rain;Mariah Carey;pop
+Don't Forget About Us - Radio Edit;Mariah Carey;pop
+I'll Be There;Mariah Carey;pop
+Breakdown (feat. Krayzie Bone & Wish Bone);Mariah Carey;pop
+Open Arms;Mariah Carey;pop
+It's Like That;Mariah Carey;pop
+It's A Wrap;Mariah Carey;pop
+#Beautiful;Mariah Carey;pop
+Whenever You Call;Mariah Carey;pop
+We Are The World ;Luciano Pavarotti;pop
+yes, and? (with Mariah Carey) - Remix;Ariana Grande;pop
+Butterfly;Mariah Carey;pop
+My Love;The-Dream;pop
+I'll Be Lovin' U Long Time;Mariah Carey;pop
+Anytime You Need a Friend;Mariah Carey;pop
+Underneath the Stars;Mariah Carey;pop
+Can't Take That Away (Mariah's Theme);Mariah Carey;pop
+Someday;Mariah Carey;pop
+Can't Let Go;Mariah Carey;pop
+Forever;Mariah Carey;pop
+Never Too Far;Mariah Carey;pop
+Obsessed (feat. Mariah Carey);Gucci Mane;pop
+Someone Like You;Adele;pop
+Easy On Me;Adele;pop
+Make You Feel My Love;Adele;pop
+Hello;Adele;pop
+Rolling in the Deep;Adele;pop
+Set Fire to the Rain;Adele;pop
+When We Were Young;Adele;pop
+Chasing Pavements;Adele;pop
+I Drink Wine;Adele;pop
+Hometown Glory;Adele;pop
+Love In The Dark;Adele;pop
+Send My Love (To Your New Lover);Adele;pop
+Can I Get It;Adele;pop
+Water Under the Bridge;Adele;pop
+Daydreamer;Adele;pop
+Oh My God;Adele;pop
+Rumour Has It;Adele;pop
+Skyfall;Adele;pop
+To Be Loved;Adele;pop
+All I Ask;Adele;pop
+Cold Shoulder;Adele;pop
+Turning Tables;Adele;pop
+Remedy;Adele;pop
+Crazy For You;Adele;pop
+Hold On;Adele;pop
+Million Years Ago;Adele;pop
+Love Is A Game;Adele;pop
+I Miss You;Adele;pop
+Don't You Remember;Adele;pop
+River Lea;Adele;pop
+My Little Love;Adele;pop
+Melt My Heart to Stone;Adele;pop
+All Night Parking (with Erroll Garner) Interlude;Adele;pop
+Strangers By Nature;Adele;pop
+Cry Your Heart Out;Adele;pop
+Woman Like Me;Adele;pop
+Water And A Flame (feat. Adele);Daniel Merriweather;pop
+Many Shades of Black;Adele;pop
+Hometown Glory (High Contrast Remix);Adele;pop
+LIFETIMES;Katy Perry;pop
+Unconditionally;Katy Perry;pop
+WOMAN'S WORLD;Katy Perry;pop
+Wide Awake;Katy Perry;pop
+Feels (feat. Pharrell Williams, Katy Perry & Big Sean);Calvin Harris;pop
+Roar;Katy Perry;pop
+Teenage Dream;Katy Perry;pop
+Hot N Cold;Katy Perry;pop
+California Gurls;Katy Perry;pop
+Dark Horse;Katy Perry;pop
+The One That Got Away;Katy Perry;pop
+I Kissed A Girl;Katy Perry;pop
+Part Of Me;Katy Perry;pop
+When I'm Gone (with Katy Perry);Alesso;pop
+Firework;Katy Perry;pop
+Harleys In Hawaii;Katy Perry;pop
+Chained To The Rhythm;Katy Perry;pop
+E.T.;Katy Perry;pop
+Last Friday Night (T.G.I.F.);Katy Perry;pop
+Never Really Over;Katy Perry;pop
+Bon Appetit;Katy Perry;pop
+Who You Love (feat. Katy Perry);John Mayer;pop
+If We Ever Meet Again (Featuring Katy Perry);Timbaland;pop
+E.T.;Katy Perry;pop
+365;Zedd;pop
+Thinking Of You;Katy Perry;pop
+STARSTRUKK (feat. Katy Perry);3OH!3;pop
+The One That Got Away - Acoustic;Katy Perry;pop
+Con Calma - Remix;Daddy Yankee;pop
+Swish Swish;Katy Perry;pop
+Rise;Katy Perry;pop
+Birthday;Katy Perry;pop
+This Is How We Do;Katy Perry;pop
+Daisies;Katy Perry;pop
+Smile;Katy Perry;pop
+Where We Started;Thomas Rhett;pop
+Waking Up In Vegas;Katy Perry;pop
+Electric - Pokemon 25 Version;Katy Perry;pop
+Tucked;Katy Perry;pop
+Teenage Dream;Katy Perry;pop
+Small Talk;Katy Perry;pop
+Legendary Lovers;Katy Perry;pop
+Not the End of the World;Katy Perry;pop
+Resilient (ft. Aitana) [Tiesto Remix];Katy Perry;pop
+Hot N Cold - Rock Version;Katy Perry;pop
+Walking On Air;Katy Perry;pop
+Cry About It Later;Katy Perry;pop
+Hey Hey Hey;Katy Perry;pop
+I Kissed A Girl - Rock Remix;Katy Perry;pop
+International Smile;Katy Perry;pop
+Champagne Problems;Katy Perry;pop
+august;Taylor Swift;pop
+I Can Do It With a Broken Heart;Taylor Swift;pop
+Blank Space (Taylor's Version);Taylor Swift;pop
+Fortnight (feat. Post Malone);Taylor Swift;pop
+Love Story (Taylor's Version);Taylor Swift;pop
+Cruel Summer;Taylor Swift;pop
+I Knew You Were Trouble (Taylor's Version);Taylor Swift;pop
+Down Bad;Taylor Swift;pop
+You Belong With Me (Taylor's Version);Taylor Swift;pop
+Bad Blood (feat. Kendrick Lamar) (Taylor's Version);Taylor Swift;pop
+Lover;Taylor Swift;pop
+Who's Afraid of Little Old Me?;Taylor Swift;pop
+Anti-Hero;Taylor Swift;pop
+...Ready For It?;Taylor Swift;pop
+Style (Taylor's Version);Taylor Swift;pop
+But Daddy I Love Him;Taylor Swift;pop
+cardigan;Taylor Swift;pop
+loml;Taylor Swift;pop
+my tears ricochet;Taylor Swift;pop
+Guilty as Sin?;Taylor Swift;pop
+willow;Taylor Swift;pop
+Florida!!! (feat. Florence + The Machine);Taylor Swift;pop
+The Prophecy;Taylor Swift;pop
+So Long, London;Taylor Swift;pop
+Cassandra;Taylor Swift;pop
+Karma;Taylor Swift;pop
+My Boy Only Breaks His Favorite Toys;Taylor Swift;pop
+Is It Over Now? (Taylor's Version) (From The Vault);Taylor Swift;pop
+How Did It End?;Taylor Swift;pop
+The Tortured Poets Department;Taylor Swift;pop
+Don't Blame Me;Taylor Swift;pop
+You're Losing Me (From The Vault);Taylor Swift;pop
+us. (feat. Taylor Swift);Gracie Abrams;pop
+The Alchemy;Taylor Swift;pop
+Look What You Made Me Do;Taylor Swift;pop
+Say Don't Go (Taylor's Version) (From The Vault);Taylor Swift;pop
+Wildest Dreams (Taylor's Version);Taylor Swift;pop
+Enchanted (Taylor's Version);Taylor Swift;pop
+You Need To Calm Down;Taylor Swift;pop
+"Slut!" (Taylor's Version) (From The Vault);Taylor Swift;pop
+New Romantics (Taylor's Version);Taylor Swift;pop
+Lavender Haze;Taylor Swift;pop
+We Are Never Ever Getting Back Together (Taylor's Version);Taylor Swift;pop
+Out Of The Woods (Taylor's Version);Taylor Swift;pop
+Mine (Taylor's Version);Taylor Swift;pop
+I Don't Wanna Live Forever (Fifty Shades Darker);ZAYN;pop
+Now That We Don't Talk (Taylor's Version) (From The Vault);Taylor Swift;pop
+All Of The Girls You Loved Before;Taylor Swift;pop
+Delicate;Taylor Swift;pop
+I Can See You (Taylor's Version) (From The Vault);Taylor Swift;pop
+Shake It Off (Taylor's Version);Taylor Swift;pop
+Midnight Rain;Taylor Swift;pop
+thanK you aIMee;Taylor Swift;pop
+22 (Taylor's Version);Taylor Swift;pop
+Back To December (Taylor's Version);Taylor Swift;pop
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault);Taylor Swift;pop
+Welcome To New York (Taylor's Version);Taylor Swift;pop
+Snow On The Beach (feat. More Lana Del Rey);Taylor Swift;pop
+Mean (Taylor's Version);Taylor Swift;pop
+Clean (Taylor's Version);Taylor Swift;pop
+Hits Different;Taylor Swift;pop
+Getaway Car;Taylor Swift;pop
+All You Had To Do Was Stay (Taylor's Version);Taylor Swift;pop
+Bejeweled;Taylor Swift;pop
+Paper Rings;Taylor Swift;pop
+I Wish You Would (Taylor's Version);Taylor Swift;pop
+Dear John (Taylor's Version);Taylor Swift;pop
+You're On Your Own, Kid;Taylor Swift;pop
+The Man;Taylor Swift;pop
+Better Than Revenge (Taylor's Version);Taylor Swift;pop
+If This Was A Movie (Taylor's Version);Taylor Swift;pop
+Suburban Legends (Taylor's Version) (From The Vault);Taylor Swift;pop
+Foolish One (Taylor's Version) (From The Vault);Taylor Swift;pop
+Maroon;Taylor Swift;pop
+When Emma Falls in Love (Taylor's Version) (From The Vault);Taylor Swift;pop
+Vigilante Shit;Taylor Swift;pop
+Electric Touch (feat. Fall Out Boy) (Taylor's Version) (From The Vault);Taylor Swift;pop
+Mastermind;Taylor Swift;pop
+Mr. Perfectly Fine (Taylor's Version) (From The Vault);Taylor Swift;pop
+Long Live (Taylor's Version);Taylor Swift;pop
+The Great War;Taylor Swift;pop
+Safe & Sound (feat. Joy Williams and John Paul White) (Taylor's Version);Taylor Swift;pop
+Timeless (Taylor's Version) (From The Vault);Taylor Swift;pop
+The Way I Loved You (Taylor's Version);Taylor Swift;pop
+Gorgeous;Taylor Swift;pop
+The Story Of Us (Taylor's Version);Taylor Swift;pop
+Question...?;Taylor Swift;pop
+champagne problems;Taylor Swift;pop
+Castles Crumbling (feat. Hayley Williams) (Taylor's Version) (From The Vault);Taylor Swift;pop
+Eyes Open (Taylor's Version);Taylor Swift;pop
+Ours (Taylor's Version);Taylor Swift;pop
+Sweet Nothing;Taylor Swift;pop
+Sparks Fly (Taylor's Version);Taylor Swift;pop
+exile (feat. Bon Iver);Taylor Swift;pop
+Red;Taylor Swift;pop
+Last Kiss (Taylor's Version);Taylor Swift;pop
+Delicate - Recorded at The Tracking Room Nashville;Taylor Swift;pop
+Paris;Taylor Swift;pop
+Message In A Bottle (Taylor's Version) (From The Vault);Taylor Swift;pop
+This Love (Taylor's Version);Taylor Swift;pop
+Ghost;Justin Bieber;pop
+STAY (with Justin Bieber);The Kid LAROI;pop
+Sorry;Justin Bieber;pop
+Snooze (Acoustic) (feat. Justin Bieber);SZA;pop
+Intentions (feat. Quavo);Justin Bieber;pop
+Private Landing (feat. Justin Bieber & Future);Don Toliver;pop
+What Do You Mean?;Justin Bieber;pop
+Hold On;Justin Bieber;pop
+Let Me Love You;DJ Snake;pop
+Peaches (feat. Daniel Caesar & Giveon);Justin Bieber;pop
+Beautiful Love - Free Fire;Justin Bieber;pop
+Cold Water (feat. Justin Bieber & M);Major Lazer;pop
+Honest (feat. Don Toliver);Justin Bieber;pop
+Baby;Justin Bieber;pop
+Love Yourself;Justin Bieber;pop
+Holy (feat. Chance The Rapper);Justin Bieber;pop
+Yummy;Justin Bieber;pop
+Red Eye (feat. TroyBoi);Justin Bieber;pop
+Boyfriend;Justin Bieber;pop
+Lonely (with benny blanco);Justin Bieber;pop
+I'm the One;DJ Khaled;pop
+Where Are  Now (with Justin Bieber);Jack;pop
+Off My Face;Justin Bieber;pop
+Despacito - Remix;Luis Fonsi;pop
+As Long As You Love Me;Justin Bieber;pop
+Beauty And A Beat;Justin Bieber;pop
+Anyone;Justin Bieber;pop
+Company;Justin Bieber;pop
+As I Am (feat. Khalid);Justin Bieber;pop
+2U (feat. Justin Bieber);David Guetta;pop
+Never Say Never;Justin Bieber;pop
+There She Go (feat. Lil Uzi Vert);Justin Bieber;pop
+attention (with Justin Bieber);Omah Lay;pop
+Hailey;Justin Bieber;pop
+up at night (feat. justin bieber);Kehlani;pop
+Essence (feat. Justin Bieber & Tems);Wizkid;pop
+Angels Speak;Justin Bieber;pop
+Friends (with BloodPop);Justin Bieber;pop
+Confident;Justin Bieber;pop
+I Don't Care (with Justin Bieber);Ed Sheeran;pop
+Somebody To Love;Justin Bieber;pop
+One Time;Justin Bieber;pop
+All That Matters;Justin Bieber;pop
+Come Around Me;Justin Bieber;pop
+Eenie Meenie;Justin Bieber;pop
+Deserve You;Justin Bieber;pop
+Next To You (feat. Justin Bieber);Chris Brown;pop
+2 Much;Justin Bieber;pop
+One Less Lonely Girl;Justin Bieber;pop
+Forever (feat. Post Malone & Clever);Justin Bieber;pop
+Lifetime;Justin Bieber;pop
+No Brainer;DJ Khaled;pop
+Purpose;Justin Bieber;pop
+Die For You (feat. Dominic Fike);Justin Bieber;pop
+Don't Go (with Justin Bieber & Don Toliver);Skrillex;pop
+Unstable (feat. The Kid LAROI);Justin Bieber;pop
+#thatPOWER;will.i.am;pop
+10,000 Hours (with Justin Bieber);Dan + Shay;pop
+I Can't Be Myself (feat. Jaden);Justin Bieber;pop
+Loved By You (feat. Burna Boy);Justin Bieber;pop
+Habitual;Justin Bieber;pop
+All Around The World;Justin Bieber;pop
+Changes;Justin Bieber;pop
+Somebody;Justin Bieber;pop
+Love You Different (feat. BEAM);Justin Bieber;pop
+Wish You Would (feat. Quavo);Justin Bieber;pop
+Lolly;Maejor;pop
+All Around Me;Justin Bieber;pop
+U Smile;Justin Bieber;pop
+I'll Show You;Justin Bieber;pop
+Know No Better (feat. DaBaby);Justin Bieber;pop
+Second Emotion (feat. Travis Scott);Justin Bieber;pop
+That's What Love Is;Justin Bieber;pop
+Heartbreaker;Justin Bieber;pop
+Name (feat. Tori Kelly);Justin Bieber;pop
+Be Alright;Justin Bieber;pop
+Get Me (feat. Kehlani);Justin Bieber;pop
+TQG;KAROL G;pop
+Dia de Enero;Shakira;pop
+Hips Don't Lie (feat. Wyclef Jean);Shakira;pop
+Inevitable;Shakira;pop
+Antologia;Shakira;pop
+Shakira: Bzrp Music Sessions, Vol. 53;Bizarrap;pop
+Ciega, Sordomuda;Shakira;pop
+Chantaje (feat. Maluma);Shakira;pop
+La Tortura (feat. Alejandro Sanz);Shakira;pop
+Puntera;Shakira;pop
+La Bicicleta;Carlos Vives;pop
+Monotona;Shakira;pop
+Whenever, Wherever;Shakira;pop
+Te Felicito;Shakira;pop
+Las de la Intuicion;Shakira;pop
+Si Te Vas;Shakira;pop
+Deja vu;Prince Royce;pop
+Estoy Aqui;Shakira;pop
+Tu;Shakira;pop
+Can't Remember to Forget You (feat. Rihanna);Shakira;pop
+Copa Vaca;Shakira;pop
+Perro Fiel (feat. Nicky Jam);Shakira;pop
+Acrustico;Shakira;pop
+Try Everything;Shakira;pop
+Cohete;Shakira;pop
+Y, Si Fuera Ella?;Pablo Alboron;pop
+Addicted to You;Shakira;pop
+Loba;Shakira;pop
+Moscas en la Casa;Shakira;pop
+DON'T YOU WORRY;Black Eyed Peas;pop
+Suerte (Whenever, Wherever);Shakira;pop
+El Jefe;Shakira;pop
+Donde Estas Corazon;Shakira;pop
+Te lo agradezco, pero no (feat. Shakira);Alejandro Sanz;pop
+Clandestino;Shakira;pop
+ultima;Shakira;pop
+Me Gusta;Shakira;pop
+Loca (feat. El Cata);Shakira;pop
+GIRL LIKE ME;Black Eyed Peas;pop
+She Wolf;Shakira;pop
+El Ultimo Adios - Varios Artistas Version;Ricky Martin;pop
+No (feat. Gustavo Cerati);Shakira;pop
+Beautiful Liar;Beyonce;pop
+Rabiosa (feat. Pitbull);Shakira;pop
+Como Donde y Cuando;Shakira;pop
+Ojos As;Shakira;pop
+So What;P!nk;pop
+Get the Party Started;P!nk;pop
+Just Like a Pill;P!nk;pop
+Who Knew - Edit;P!nk;pop
+Just Give Me a Reason (feat. Nate Ruess);P!nk;pop
+Raise Your Glass;P!nk;pop
+TRUSTFALL;P!nk;pop
+F**kin' Perfect - Radio Edit;P!nk;pop
+Never Gonna Not Dance Again;P!nk;pop
+Runaway;P!nk;pop
+Try;P!nk;pop
+What About Us;P!nk;pop
+Cover Me In Sunshine;P!nk;pop
+All Out Of Fight;P!nk;pop
+Dreaming;Marshmello;pop
+Just Like Fire (From the Original Motion Picture "Alice Through The Looking Glass");P!nk;pop
+A Million Dreams;P!nk;pop
+When I Get There;P!nk;pop
+All I Know So Far;P!nk;pop
+One Too Many;Keith Urban;pop
+True Love (feat. Lily Allen);P!nk;pop
+Turbulence;P!nk;pop
+Walk Me Home;P!nk;pop
+Anywhere Away from Here;Rag'n'Bone Man;pop
+Lady Marmalade - Single Edit;Christina Aguilera;pop
+Blow Me (One Last Kiss);P!nk;pop
+Love Me Anyway (feat. Chris Stapleton);P!nk;pop
+I Am Here;P!nk;pop
+U + Ur Hand;P!nk;pop
+Sober;P!nk;pop
+Setting the World On Fire (with P!NK);Kenny Chesney;pop
+Don't Let Me Get Me - Radio Edit;P!nk;pop
+Beautiful Trauma;P!nk;pop
+Please Don't Leave Me;P!nk;pop
+Kids in Love;P!nk;pop
+Irrelevant;P!nk;pop
+Trouble;P!nk;pop
+Glitter In the Air;P!nk;pop
+Long Way to Go;P!nk;pop
+Leave Me Alone (I'm Lonely);P!nk;pop
+Can We Pretend (feat. Cash Cash);P!nk;pop
+Funhouse;P!nk;pop
+Our Song;P!nk;pop
+Family Portrait;P!nk;pop
+Hustle;P!nk;pop
+Revenge (feat. Eminem);P!nk;pop
+Hate Me;P!nk;pop
+There You Go;P!nk;pop
+Never Gonna Not Dance Again - Sam Feldt Remix;P!nk;pop
+Dear Mr. President (feat. Indigo Girls);P!nk;pop
+Secrets;P!nk;pop
+Won't Back Down;Eminem;pop
+Courage;P!nk;pop
+Stupid Girls;P!nk;pop
+Where We Go;P!nk;pop
