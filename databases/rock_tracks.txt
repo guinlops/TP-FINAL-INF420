@@ -1,0 +1,896 @@
+Track_name;Artist_Name;genra;
+Enter Sandman;Metallica;rock
+Whiskey In The Jar;Metallica;rock
+Master Of Puppets;Metallica;rock
+Fuel;Metallica;rock
+Nothing Else Matters;Metallica;rock
+One;Metallica;rock
+For Whom The Bell Tolls (Remastered);Metallica;rock
+Seek & Destroy - Remastered;Metallica;rock
+The Unforgiven;Metallica;rock
+The Unforgiven II;Metallica;rock
+Fade To Black - Remastered;Metallica;rock
+Until It Sleeps;Metallica;rock
+Sad But True;Metallica;rock
+Turn The Page;Metallica;rock
+The Memory Remains;Metallica;rock
+The Day That Never Comes;Metallica;rock
+Wherever I May Roam;Metallica;rock
+Die, Die My Darling;Metallica;rock
+Hardwired;Metallica;rock
+Battery;Metallica;rock
+Don't Tread On Me;Metallica;rock
+Ride The Lightning - Remastered;Metallica;rock
+Whiplash - Remastered;Metallica;rock
+King Nothing;Metallica;rock
+I Disappear;Metallica;rock
+Blackened;Metallica;rock
+Screaming Suicide;Metallica;rock
+Mama Said;Metallica;rock
+Welcome Home (Sanitarium) - Remastered;Metallica;rock
+St. Anger;Metallica;rock
+Motorbreath - Remastered;Metallica;rock
+Hero Of The Day;Metallica;rock
+Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup;Hardwell;rock
+Harvester Of Sorrow;Metallica;rock
+Moth Into Flame;Metallica;rock
+The Unforgiven III;Metallica;rock
+72 Seasons;Metallica;rock
+Creeping Death (Remastered);Metallica;rock
+Nothing Else Matters - Jungle Cruise Version Part 1;James Newton Howard;rock
+The Four Horsemen - Remastered;Metallica;rock
+All Nightmare Long;Metallica;rock
+Shadows Follow;Metallica;rock
+No Leaf Clover - Live;Metallica;rock
+...And Justice For All;Metallica;rock
+Disposable Heroes;Metallica;rock
+Too Far Gone?;Metallica;rock
+Fight Fire With Fire - Remastered;Metallica;rock
+So What;Metallica;rock
+The Thing That Should Not Be;Metallica;rock
+Immigrant Song - 1990 Remaster;Led Zeppelin;rock
+Stairway to Heaven - Remaster;Led Zeppelin;rock
+Whole Lotta Love - 1990 Remaster;Led Zeppelin;rock
+Good Times Bad Times - 1993 Remaster;Led Zeppelin;rock
+D'yer Mak'er - Remaster;Led Zeppelin;rock
+Going to California - Remaster;Led Zeppelin;rock
+Ramble On - 1990 Remaster;Led Zeppelin;rock
+Hey, Hey, What Can I Do - Remaster;Led Zeppelin;rock
+Over the Hills and Far Away - Remaster;Led Zeppelin;rock
+Rock and Roll - Remaster;Led Zeppelin;rock
+Kashmir - Remaster;Led Zeppelin;rock
+Tangerine - Remaster;Led Zeppelin;rock
+All My Love - Remaster;Led Zeppelin;rock
+Black Dog - Remaster;Led Zeppelin;rock
+Heartbreaker - 1990 Remaster;Led Zeppelin;rock
+Communication Breakdown - 1990 Remaster;Led Zeppelin;rock
+Fool in the Rain - Remaster;Led Zeppelin;rock
+When the Levee Breaks - Remaster;Led Zeppelin;rock
+Since I've Been Loving You - Remaster;Led Zeppelin;rock
+Babe I'm Gonna Leave You - 1990 Remaster;Led Zeppelin;rock
+Living Loving Maid (She's Just a Woman) - Remaster;Led Zeppelin;rock
+The Ocean - Remaster;Led Zeppelin;rock
+Houses of the Holy - Remaster;Led Zeppelin;rock
+Dazed and Confused - 1990 Remaster;Led Zeppelin;rock
+Misty Mountain Hop - Remaster;Led Zeppelin;rock
+The Rain Song - Remaster;Led Zeppelin;rock
+Bron-Y-Aur Stomp - Remaster;Led Zeppelin;rock
+Trampled Under Foot - Remaster;Led Zeppelin;rock
+What Is and What Should Never Be - 1990 Remaster;Led Zeppelin;rock
+No Quarter - Remaster;Led Zeppelin;rock
+That's the Way - Remaster;Led Zeppelin;rock
+Ten Years Gone - Remaster;Led Zeppelin;rock
+I Can't Quit You Baby - 1990 Remaster;Led Zeppelin;rock
+Thank You - 1990 Remaster;Led Zeppelin;rock
+Travelling Riverside Blues (BBC Session) - Remastered;Led Zeppelin;rock
+The Battle of Evermore - Remaster;Led Zeppelin;rock
+The Song Remains the Same - Remaster;Led Zeppelin;rock
+Gallows Pole - Remaster;Led Zeppelin;rock
+Bron-Yr-Aur - Remaster;Led Zeppelin;rock
+Nobody's Fault but Mine - Remaster;Led Zeppelin;rock
+Your Time Is Gonna Come - Remaster;Led Zeppelin;rock
+Out on the Tiles - Remaster;Led Zeppelin;rock
+The Rover - Remaster;Led Zeppelin;rock
+The Girl I Love She Got Long Black Wavy Hair - Live on Tasty Pop Sundae from BBC Sessions;Remaster;Led Zeppelin;rock
+In the Evening - Remaster;Led Zeppelin;rock
+Achilles Last Stand - Remaster;Led Zeppelin;rock
+Stairway to Heaven - (Live at MSG 1973) [Remaster];Led Zeppelin;rock
+The Crunge - Remaster;Led Zeppelin;rock
+Hot Dog - Remaster;Led Zeppelin;rock
+Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox);Pink Floyd;rock
+Another Brick in the Wall, Pt. 2;Pink Floyd;rock
+Wish You Were Here;Pink Floyd;rock
+Breathe (In the Air);Pink Floyd;rock
+Learning to Fly;Pink Floyd;rock
+Comfortably Numb;Pink Floyd;rock
+Have a Cigar;Pink Floyd;rock
+Money;Pink Floyd;rock
+Pigs on the Wing 1;Pink Floyd;rock
+Hey You;Pink Floyd;rock
+Shine On You Crazy Diamond (Pts. 1-5);Pink Floyd;rock
+Time;Pink Floyd;rock
+What Do You Want from Me;Pink Floyd;rock
+Young Lust;Pink Floyd;rock
+Welcome to the Machine;Pink Floyd;rock
+The Great Gig in the Sky;Pink Floyd;rock
+Coming Back to Life;Pink Floyd;rock
+Goodbye Blue Sky;Pink Floyd;rock
+On the Turning Away;Pink Floyd;rock
+Brain Damage;Pink Floyd;rock
+Marooned;Pink Floyd;rock
+The Happiest Days of Our Lives;Pink Floyd;rock
+Pigs (Three Different Ones);Pink Floyd;rock
+Us and Them;Pink Floyd;rock
+Take It Back;Pink Floyd;rock
+Fearless;Pink Floyd;rock
+Dogs;Pink Floyd;rock
+The Final Cut;Pink Floyd;rock
+Lost for Words;Pink Floyd;rock
+San Tropez;Pink Floyd;rock
+Sheep;Pink Floyd;rock
+One of the Few;Pink Floyd;rock
+Poles Apart;Pink Floyd;rock
+One of These Days;Pink Floyd;rock
+A Pillow of Winds;Pink Floyd;rock
+Drifting - Alternate Version / November 20, 1970;Jimi Hendrix;rock
+All Along the Watchtower;Jimi Hendrix;rock
+Little Wing;Jimi Hendrix;rock
+Hey Joe;Jimi Hendrix;rock
+Jungle;Jimi Hendrix;rock
+Voodoo Child (Slight Return);Jimi Hendrix;rock
+Castles Made of Sand;Jimi Hendrix;rock
+Purple Haze;Jimi Hendrix;rock
+Freedom;Jimi Hendrix;rock
+Crosstown Traffic;Jimi Hendrix;rock
+Spanish Castle Magic;Jimi Hendrix;rock
+The Wind Cries Mary;Jimi Hendrix;rock
+Angel - Take 7;Jimi Hendrix;rock
+Have You Ever Been (To Electric Ladyland);Jimi Hendrix;rock
+Bold as Love;Jimi Hendrix;rock
+Red House;Jimi Hendrix;rock
+Hear My Train a Comin';Jimi Hendrix;rock
+Gypsy Eyes;Jimi Hendrix;rock
+One Rainy Wish;Jimi Hendrix;rock
+Foxey Lady;Jimi Hendrix;rock
+Born Under a Bad Sign;Jimi Hendrix;rock
+Come On (Let the Good Times Roll);Jimi Hendrix;rock
+Wait Until Tomorrow;Jimi Hendrix;rock
+Fire;Jimi Hendrix;rock
+Things I Used to Do;Jimi Hendrix;rock
+Somewhere;Jimi Hendrix;rock
+Fool for You Baby (feat. Jimi Hendrix);Curtis Knight & The Squires;rock
+Catfish Blues;Jimi Hendrix;rock
+Mannish Boy;Jimi Hendrix;rock
+Ezy Ryder;Jimi Hendrix;rock
+Pali Gap;Jimi Hendrix;rock
+Like A Rolling Stone - Live At Monterey;Jimi Hendrix;rock
+Lover Man;Jimi Hendrix;rock
+Bleeding Heart;Jimi Hendrix;rock
+Dolly Dagger;Jimi Hendrix;rock
+Voodoo Chile Blues;Jimi Hendrix;rock
+Sweet Angel;Jimi Hendrix;rock
+Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967;Jimi Hendrix;rock
+Villanova Junction Blues;Jimi Hendrix;rock
+My Friend;Jimi Hendrix;rock
+Hey Baby (New Rising Sun);Jimi Hendrix;rock
+Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967;Jimi Hendrix;rock
+Hey Gypsy Boy;Jimi Hendrix;rock
+Valleys of Neptune;Jimi Hendrix;rock
+Georgia Blues;Jimi Hendrix;rock
+Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set;Jimi Hendrix;rock
+Once I Had a Woman;Jimi Hendrix;rock
+Killing Floor - Live At Monterey;Jimi Hendrix;rock
+Who Knows - Live At Fillmore East, 1970 / 50th Anniversary;Jimi Hendrix;rock
+Earth Blues;Jimi Hendrix;rock
+Room Full of Mirrors;Jimi Hendrix;rock
+Jump - 2015 Remaster;Van Halen;rock
+Dance the Night Away - 2015 Remaster;Van Halen;rock
+You Really Got Me - 2015 Remaster;Van Halen;rock
+Why Can't This Be Love;Van Halen;rock
+Panama - 2015 Remaster;Van Halen;rock
+Can't Stop Lovin' You;Van Halen;rock
+Runnin' with the Devil - 2015 Remaster;Van Halen;rock
+Dreams;Van Halen;rock
+Hot for Teacher - 2015 Remaster;Van Halen;rock
+(Oh) Pretty Woman - 2015 Remaster;Van Halen;rock
+Ain't Talkin' 'Bout Love - 2015 Remaster;Van Halen;rock
+Unchained - 2015 Remaster;Van Halen;rock
+Beautiful Girls - 2015 Remaster;Van Halen;rock
+I'll Wait - 2015 Remaster;Van Halen;rock
+Eruption - 2015 Remaster;Van Halen;rock
+Love Walks In;Van Halen;rock
+And the Cradle Will Rock... - 2015 Remaster;Van Halen;rock
+Right Now;Van Halen;rock
+Jamie's Cryin' - 2015 Remaster;Van Halen;rock
+When It's Love;Van Halen;rock
+Best of Both Worlds;Van Halen;rock
+Where Have All the Good Times Gone! - 2015 Remaster;Van Halen;rock
+Ice Cream Man - 2015 Remaster;Van Halen;rock
+Poundcake;Van Halen;rock
+Summer Nights;Van Halen;rock
+Drop Dead Legs - 2015 Remaster;Van Halen;rock
+Little Guitars - 2015 Remaster;Van Halen;rock
+Somebody Get Me a Doctor - 2015 Remaster;Van Halen;rock
+5150;Van Halen;rock
+Top Jimmy - 2015 Remaster;Van Halen;rock
+Runaround;Van Halen;rock
+Mean Street - 2015 Remaster;Van Halen;rock
+Dancing in the Street - 2015 Remaster;Van Halen;rock
+Everybody Wants Some!! - 2015 Remaster;Van Halen;rock
+Top of the World;Van Halen;rock
+Finish What Ya Started;Van Halen;rock
+D.O.A. - 2015 Remaster;Van Halen;rock
+Take Your Whiskey Home - 2015 Remaster;Van Halen;rock
+Don't Tell Me;Van Halen;rock
+Dirty Movies - 2015 Remaster;Van Halen;rock
+Spanish Fly - 2015 Remaster;Van Halen;rock
+Intruder - 2015 Remaster;Van Halen;rock
+Romeo Delight - 2015 Remaster;Van Halen;rock
+So This Is Love? - 2015 Remaster;Van Halen;rock
+You're No Good - 2015 Remaster;Van Halen;rock
+Feels so Good;Van Halen;rock
+Humans Being;Van Halen;rock
+Hear About It Later - 2015 Remaster;Van Halen;rock
+Secrets - 2015 Remaster;Van Halen;rock
+Black and Blue;Van Halen;rock
+A Kind Of Magic - Remastered 2011;Queen;rock
+Crazy Little Thing Called Love - Remastered 2011;Queen;rock
+Don't Stop Me Now - Remastered 2011;Queen;rock
+Under Pressure - Remastered 2011;Queen;rock
+We Will Rock You - Remastered 2011;Queen;rock
+Another One Bites The Dust - Remastered 2011;Queen;rock
+Bohemian Rhapsody - Remastered 2011;Queen;rock
+Killer Queen - Remastered 2011;Queen;rock
+I Want To Break Free - Single Remix;Queen;rock
+Radio Ga Ga - Remastered 2011;Queen;rock
+Somebody To Love - Remastered 2011;Queen;rock
+We Are The Champions - Remastered 2011;Queen;rock
+You're My Best Friend - Remastered 2011;Queen;rock
+Love Of My Life - Remastered 2011;Queen;rock
+Good Old-Fashioned Lover Boy - Remastered 2011;Queen;rock
+The Show Must Go On - Remastered 2011;Queen;rock
+Fat Bottomed Girls - Remastered 2011;Queen;rock
+Don't Stop Me Now - ...Revisited;Queen;rock
+Cool Cat - Remastered 2011;Queen;rock
+I Want It All - Single Version;Queen;rock
+Too Much Love Will Kill You - Remastered 2011;Queen;rock
+Hammer To Fall - Remastered 2011;Queen;rock
+Friends Will Be Friends - Remastered 2011;Queen;rock
+Radio Ga Ga - Live Aid;Queen;rock
+Bicycle Race - Remastered 2011;Queen;rock
+Who Wants To Live Forever - Remastered 2011;Queen;rock
+Save Me - Remastered 2011;Queen;rock
+Somebody to Love;George Michael;rock
+Breakthru - Remastered 2011;Queen;rock
+Ay-Oh - Live Aid;Queen;rock
+Play The Game - Remastered 2011;Queen;rock
+These Are The Days Of Our Lives - 2011 Remaster;Queen;rock
+Seven Seas Of Rhye - Remastered 2011;Queen;rock
+It's A Hard Life - Remastered 2011;Queen;rock
+I Was Born To Love You - 2011 Remaster;Queen;rock
+We Are The Champions - Live Aid;Queen;rock
+Innuendo - Remastered 2011;Queen;rock
+Stone Cold Crazy - Remastered 2011;Queen;rock
+Lazing On A Sunday Afternoon - Remastered 2011;Queen;rock
+You Don't Fool Me - Remastered 2011;Queen;rock
+Headlong - Remastered 2011;Queen;rock
+Don't Try Suicide - Remastered 2011;Queen;rock
+'39 - Remastered 2011;Queen;rock
+Spread Your Wings - Remastered 2011;Queen;rock
+Princes Of The Universe - Remastered 2011;Queen;rock
+Face It Alone;Queen;rock
+Death On Two Legs (Dedicated To...) - Remastered 2011;Queen;rock
+God Save The Queen - Remastered 2011;Queen;rock
+One Vision - Remastered 2011;Queen;rock
+Tie Your Mother Down - Remastered 2011;Queen;rock
+Heaven For Everyone - Remastered 2011;Queen;rock
+Take It to the Limit - 2013 Remaster;Eagles;rock
+Take It Easy - 2013 Remaster;Eagles;rock
+Hotel California - 2013 Remaster;Eagles;rock
+Tequila Sunrise - 2013 Remaster;Eagles;rock
+One of These Nights - 2013 Remaster;Eagles;rock
+Peaceful Easy Feeling - 2013 Remaster;Eagles;rock
+Love Will Keep Us Alive;Eagles;rock
+New Kid in Town - 2013 Remaster;Eagles;rock
+Lyin' Eyes - 2013 Remaster;Eagles;rock
+I Can't Tell You Why - 2013 Remaster;Eagles;rock
+Desperado - 2013 Remaster;Eagles;rock
+Life in the Fast Lane - 2013 Remaster;Eagles;rock
+The Best of My Love - 2013 Remaster;Eagles;rock
+Heartache Tonight - 2013 Remaster;Eagles;rock
+Seven Bridges Road - Live; 1999 Remaster;Eagles;rock
+Witchy Woman - 2013 Remaster;Eagles;rock
+Already Gone - 2013 Remaster;Eagles;rock
+The Long Run - 2013 Remaster;Eagles;rock
+How Long;Eagles;rock
+After the Thrill Is Gone - 2013 Remaster;Eagles;rock
+Victim of Love - 2013 Remaster;Eagles;rock
+In the City - 2013 Remaster;Eagles;rock
+The Girl From Yesterday;Eagles;rock
+Doolin-Dalton - 2013 Remaster;Eagles;rock
+Wasted Time - 2013 Remaster;Eagles;rock
+No More Cloudy Days;Eagles;rock
+Learn To Be Still;Eagles;rock
+Ol' 55 - 2013 Remaster;Eagles;rock
+The Last Resort - 2013 Remaster;Eagles;rock
+Busy Being Fabulous;Eagles;rock
+Get Over It;Eagles;rock
+Train Leaves Here This Morning - 2013 Remaster;Eagles;rock
+Those Shoes - 2013 Remaster;Eagles;rock
+Saturday Night - 2013 Remaster;Eagles;rock
+New York Minute - Live On MTV, 1994;Eagles;rock
+James Dean - 2013 Remaster;Eagles;rock
+The Sad Cafe - 2013 Remaster;Eagles;rock
+Hole in the World - 2018 Remaster;Eagles;rock
+You Are Not Alone;Eagles;rock
+Hollywood Waltz - 2013 Remaster;Eagles;rock
+Life's Been Good - Live; 1999 Remaster;Eagles;rock
+Outlaw Man - 2013 Remaster;Eagles;rock
+Waiting in the Weeds;Eagles;rock
+Nightingale - 2013 Remaster;Eagles;rock
+On the Border - 2013 Remaster;Eagles;rock
+Twenty-One - 2013 Remaster;Eagles;rock
+I Dreamed There Was No War;Eagles;rock
+Journey of the Sorcerer - 2013 Remaster;Eagles;rock
+My Man - 2013 Remaster;Eagles;rock
+Vida;YOD;rock
+Paint It, Black;The Rolling Stones;rock
+Beast Of Burden - Remastered 1994;The Rolling Stones;rock
+Start Me Up - Remastered 2009;The Rolling Stones;rock
+(I Can't Get No) Satisfaction - Mono Version;The Rolling Stones;rock
+Gimme Shelter;The Rolling Stones;rock
+Angie - Remastered 2009;The Rolling Stones;rock
+Honky Tonk Women;The Rolling Stones;rock
+Miss You - Remastered;The Rolling Stones;rock
+Sympathy For The Devil - 50th Anniversary Edition;The Rolling Stones;rock
+Brown Sugar - Remastered 2009;The Rolling Stones;rock
+Ruby Tuesday;The Rolling Stones;rock
+Under My Thumb;The Rolling Stones;rock
+Tumbling Dice;The Rolling Stones;rock
+Wild Horses - 2009 Mix;The Rolling Stones;rock
+Jumpin' Jack Flash;The Rolling Stones;rock
+You Can't Always Get What You Want;The Rolling Stones;rock
+Waiting On A Friend - Remastered 2009;The Rolling Stones;rock
+Dead Flowers - 2009 Mix;The Rolling Stones;rock
+Anybody Seen My Baby? - Remastered 2009;The Rolling Stones;rock
+As Tears Go By - Mono Version;The Rolling Stones;rock
+Play With Fire - Mono Version;The Rolling Stones;rock
+Can't You Hear Me Knocking - 2009 Mix;The Rolling Stones;rock
+She's A Rainbow;The Rolling Stones;rock
+Get Off Of My Cloud - Mono Version;The Rolling Stones;rock
+It's Only Rock'n'Roll (But I Like It) - Remastered 2009;The Rolling Stones;rock
+Street Fighting Man - 50th Anniversary Edition;The Rolling Stones;rock
+Let's Spend The Night Together;The Rolling Stones;rock
+Happy;The Rolling Stones;rock
+She's So Cold - Remastered 2009;The Rolling Stones;rock
+Mess It Up;The Rolling Stones;rock
+Sweet Virginia;The Rolling Stones;rock
+Angry;The Rolling Stones;rock
+Mother's Little Helper;The Rolling Stones;rock
+Route 66;The Rolling Stones;rock
+Doo Doo Doo Doo Doo (Heartbreaker);The Rolling Stones;rock
+Emotional Rescue - Remastered 2009;The Rolling Stones;rock
+Loving Cup;The Rolling Stones;rock
+Let It Bleed;The Rolling Stones;rock
+Bitch - 2009 Mix;The Rolling Stones;rock
+Love Is Strong - Remastered 2009;The Rolling Stones;rock
+Fool To Cry - Remastered 2009;The Rolling Stones;rock
+It's All Over Now - Mono Version;The Rolling Stones;rock
+Far Away Eyes - Remastered;The Rolling Stones;rock
+You Got The Silver;The Rolling Stones;rock
+Shine A Light;The Rolling Stones;rock
+Heaven - Remastered;The Rolling Stones;rock
+Whole Wide World;The Rolling Stones;rock
+(Walkin' Thru The) Sleepy City;The Rolling Stones;rock
+Rip This Joint;The Rolling Stones;rock
+Country Honk;The Rolling Stones;rock
+Even Flow;Pearl Jam;rock
+Last Kiss;Pearl Jam;rock
+Daughter - Remastered;Pearl Jam;rock
+Yellow Ledbetter;Pearl Jam;rock
+Alive;Pearl Jam;rock
+Just Breathe;Pearl Jam;rock
+Better Man;Pearl Jam;rock
+Elderly Woman Behind the Counter in a Small Town - Remastered;Pearl Jam;rock
+Black;Pearl Jam;rock
+Sirens;Pearl Jam;rock
+Wreckage;Pearl Jam;rock
+I Am Mine;Pearl Jam;rock
+Jeremy;Pearl Jam;rock
+Given to Fly;Pearl Jam;rock
+Soldier of Love;Pearl Jam;rock
+Won't Tell;Pearl Jam;rock
+Rearviewmirror - Remastered;Pearl Jam;rock
+Wishlist;Pearl Jam;rock
+The Fixer;Pearl Jam;rock
+Dark Matter;Pearl Jam;rock
+Animal - Remastered;Pearl Jam;rock
+Once;Pearl Jam;rock
+Nothingman - Remastered;Pearl Jam;rock
+Running;Pearl Jam;rock
+Dissident - Remastered;Pearl Jam;rock
+Oceans;Pearl Jam;rock
+Do the Evolution;Pearl Jam;rock
+Something Special;Pearl Jam;rock
+Corduroy - Remastered;Pearl Jam;rock
+State of Love and Trust;Pearl Jam;rock
+Go - Remastered;Pearl Jam;rock
+Upper Hand;Pearl Jam;rock
+Immortality - Remastered;Pearl Jam;rock
+Come Back;Pearl Jam;rock
+Off He Goes;Pearl Jam;rock
+Unthought Known;Pearl Jam;rock
+Man of the Hour;Pearl Jam;rock
+Future Days;Pearl Jam;rock
+Lukin;Pearl Jam;rock
+The End;Pearl Jam;rock
+Dance Of The Clairvoyants;Pearl Jam;rock
+Not for You - Remastered;Pearl Jam;rock
+Smile;Pearl Jam;rock
+Light Years;Pearl Jam;rock
+Getaway;Pearl Jam;rock
+Spin the Black Circle - Remastered;Pearl Jam;rock
+Present Tense;Pearl Jam;rock
+Superblood Wolfmoon;Pearl Jam;rock
+Mind Your Manners;Pearl Jam;rock
+Hail, Hail;Pearl Jam;rock
+Dream On;Aerosmith;rock
+I Don't Want To Miss A Thing - From "Armageddon" Soundtrack;Aerosmith;rock
+Crazy;Aerosmith;rock
+Walk This Way;Aerosmith;rock
+Dude (Looks Like A Lady);Aerosmith;rock
+Jaded;Aerosmith;rock
+Cryin';Aerosmith;rock
+Sweet Emotion;Aerosmith;rock
+Pink;Aerosmith;rock
+Angel;Aerosmith;rock
+Amazing;Aerosmith;rock
+Fly Away From Here;Aerosmith;rock
+Hole In My Soul;Aerosmith;rock
+Rag Doll;Aerosmith;rock
+Livin' On The Edge;Aerosmith;rock
+Come Together;Aerosmith;rock
+Back In the Saddle;Aerosmith;rock
+Same Old Song and Dance;Aerosmith;rock
+Janie's Got A Gun;Aerosmith;rock
+Eat The Rich;Aerosmith;rock
+Last Child;Aerosmith;rock
+Falling In Love (Is Hard On The Knees);Aerosmith;rock
+What It Takes;Aerosmith;rock
+Mama Kin;Aerosmith;rock
+What Could Have Been Love;Aerosmith;rock
+Full Circle;Aerosmith;rock
+Love In An Elevator - Single Version;Aerosmith;rock
+Train Kept a Rollin';Aerosmith;rock
+Toys In The Attic;Aerosmith;rock
+Water Song/Janie's Got A Gun;Aerosmith;rock
+The Other Side - Single Version;Aerosmith;rock
+Crazy - Live Version;Aerosmith;rock
+No More No More;Aerosmith;rock
+F.I.N.E.;Aerosmith;rock
+Deuces Are Wild;Aerosmith;rock
+Cryin' - Live Version;Aerosmith;rock
+Big Ten Inch Record;Aerosmith;rock
+Lord Of The Thighs;Aerosmith;rock
+Get A Grip;Aerosmith;rock
+Kings And Queens;Aerosmith;rock
+Sunshine;Aerosmith;rock
+Hangman Jury;Aerosmith;rock
+Adam's Apple;Aerosmith;rock
+Draw The Line;Aerosmith;rock
+Ain't That A Bitch;Aerosmith;rock
+Remember (Walking In The Sand);Aerosmith;rock
+Chip Away The Stone;Aerosmith;rock
+Walkin' The Dog;Aerosmith;rock
+Nine Lives;Aerosmith;rock
+Lightning Strikes;Aerosmith;rock
+Scar Tissue;Red Hot Chili Peppers;rock
+Can't Stop;Red Hot Chili Peppers;rock
+Under the Bridge;Red Hot Chili Peppers;rock
+Dani California;Red Hot Chili Peppers;rock
+Californication;Red Hot Chili Peppers;rock
+By the Way;Red Hot Chili Peppers;rock
+Soul to Squeeze;Red Hot Chili Peppers;rock
+Snow (Hey Oh);Red Hot Chili Peppers;rock
+Otherside;Red Hot Chili Peppers;rock
+The Zephyr Song;Red Hot Chili Peppers;rock
+Dark Necessities;Red Hot Chili Peppers;rock
+Give It Away;Red Hot Chili Peppers;rock
+Wet Sand;Red Hot Chili Peppers;rock
+Higher Ground - Remastered 2003;Red Hot Chili Peppers;rock
+Sick Love;Red Hot Chili Peppers;rock
+Suck My Kiss;Red Hot Chili Peppers;rock
+Around the World;Red Hot Chili Peppers;rock
+Dosed;Red Hot Chili Peppers;rock
+Road Trippin';Red Hot Chili Peppers;rock
+Fortune Faded;Red Hot Chili Peppers;rock
+Tell Me Baby;Red Hot Chili Peppers;rock
+The Adventures of Rain Dance Maggie;Red Hot Chili Peppers;rock
+Parallel Universe;Red Hot Chili Peppers;rock
+Aeroplane;Red Hot Chili Peppers;rock
+This Velvet Glove;Red Hot Chili Peppers;rock
+I Could Die for You;Red Hot Chili Peppers;rock
+Black Summer;Red Hot Chili Peppers;rock
+Goodbye Angels;Red Hot Chili Peppers;rock
+My Friends;Red Hot Chili Peppers;rock
+Universally Speaking;Red Hot Chili Peppers;rock
+Stadium Arcadium;Red Hot Chili Peppers;rock
+Go Robot;Red Hot Chili Peppers;rock
+Breaking the Girl;Red Hot Chili Peppers;rock
+Eddie;Red Hot Chili Peppers;rock
+Strip My Mind;Red Hot Chili Peppers;rock
+The Longest Wave;Red Hot Chili Peppers;rock
+I Could Have Lied;Red Hot Chili Peppers;rock
+Look Around;Red Hot Chili Peppers;rock
+Easily;Red Hot Chili Peppers;rock
+The Getaway;Red Hot Chili Peppers;rock
+Peace and Love;Red Hot Chili Peppers;rock
+White Braids & Pillow Chair;Red Hot Chili Peppers;rock
+Blood Sugar Sex Magik;Red Hot Chili Peppers;rock
+Porcelain;Red Hot Chili Peppers;rock
+Tippa My Tongue;Red Hot Chili Peppers;rock
+She's a Lover;Red Hot Chili Peppers;rock
+Factory of Faith;Red Hot Chili Peppers;rock
+The Shape I'm Takin';Red Hot Chili Peppers;rock
+Fake as Fu@k;Red Hot Chili Peppers;rock
+Here Ever After;Red Hot Chili Peppers;rock
+Sultans Of Swing;Dire Straits;rock
+Walk Of Life;Dire Straits;rock
+Romeo And Juliet;Dire Straits;rock
+Where Do You Think You're Going?;Dire Straits;rock
+Down To The Waterline;Dire Straits;rock
+Your Latest Trick - Remastered 1996;Dire Straits;rock
+Iron Hand;Dire Straits;rock
+Lady Writer;Dire Straits;rock
+Six Blade Knife;Dire Straits;rock
+Brothers In Arms;Dire Straits;rock
+Ticket To Heaven;Dire Straits;rock
+Once Upon A Time In The West;Dire Straits;rock
+Water Of Love;Dire Straits;rock
+So Far Away - Remastered 1996;Dire Straits;rock
+Tunnel Of Love;Dire Straits;rock
+News;Dire Straits;rock
+Wild West End;Dire Straits;rock
+On Every Street;Dire Straits;rock
+Money For Nothing - Single Edit / Remastered 2022;Dire Straits;rock
+One World - Remastered 1996;Dire Straits;rock
+Southbound Again;Dire Straits;rock
+When It Comes To You;Dire Straits;rock
+Portobello Belle;Dire Straits;rock
+Private Investigations;Dire Straits;rock
+Hand In Hand;Dire Straits;rock
+You And Your Friend;Dire Straits;rock
+Communiqu�;Dire Straits;rock
+Telegraph Road;Dire Straits;rock
+Why Worry? - Remastered 1996;Dire Straits;rock
+Calling Elvis;Dire Straits;rock
+Skateaway;Dire Straits;rock
+Twisting By The Pool;Dire Straits;rock
+Love Over Gold;Dire Straits;rock
+Walk Of Life - Live Version;Dire Straits;rock
+Expresso Love;Dire Straits;rock
+Local Hero / Wild Theme - Live At Les Arenes, Nimes / France / 1993;Dire Straits;rock
+Industrial Disease;Dire Straits;rock
+Going Home - Live At Hammersmith Odeon, London/1983;Dire Straits;rock
+Solid Rock;Dire Straits;rock
+Millionaire Blues;Dire Straits;rock
+It Never Rains;Dire Straits;rock
+Two Young Lovers - Live At Hammersmith Odeon, London/1983;Dire Straits;rock
+About A Girl;Nirvana;rock
+Smells Like Teen Spirit;Nirvana;rock
+Heart-Shaped Box;Nirvana;rock
+Dumb;Nirvana;rock
+The Man Who Sold The World - Live;Nirvana;rock
+Come As You Are;Nirvana;rock
+Love Buzz;Nirvana;rock
+All Apologies;Nirvana;rock
+Rape Me;Nirvana;rock
+Lithium;Nirvana;rock
+You Know You're Right;Nirvana;rock
+Lake Of Fire - Live;Nirvana;rock
+Sliver;Nirvana;rock
+Something In The Way;Nirvana;rock
+Marigold;Nirvana;rock
+Where Did You Sleep Last Night - Live;Nirvana;rock
+Aneurysm;Nirvana;rock
+In Bloom;Nirvana;rock
+Very Ape;Nirvana;rock
+Oh Me - Live;Nirvana;rock
+Blew;Nirvana;rock
+Breed;Nirvana;rock
+Serve The Servants;Nirvana;rock
+Plateau - Live;Nirvana;rock
+School;Nirvana;rock
+Molly's Lips - BBC John Peel Session 1990;Nirvana;rock
+Pennyroyal Tea;Nirvana;rock
+Jesus Doesn't Want Me For A Sunbeam - Live;Nirvana;rock
+Negative Creep;Nirvana;rock
+Dive;Nirvana;rock
+Tourette's;Nirvana;rock
+Sappy;Nirvana;rock
+Floyd The Barber;Nirvana;rock
+Been A Son - BBC Mark Goodier Session;Nirvana;rock
+I Hate Myself And Want To Die - 2013 Mix;Nirvana;rock
+Verse Chorus Verse - Outtake;Nirvana;rock
+Downer;Nirvana;rock
+Moist Vagina - 2013 Mix;Nirvana;rock
+Let It Be - Remastered 2009;The Beatles;rock
+Here Comes The Sun - Remastered 2009;The Beatles;rock
+In My Life - Remastered 2009;The Beatles;rock
+Blackbird - Remastered 2009;The Beatles;rock
+Twist And Shout - Remastered 2009;The Beatles;rock
+Yesterday - Remastered 2009;The Beatles;rock
+I Want To Hold Your Hand - Remastered 2009;The Beatles;rock
+Come Together - Remastered 2009;The Beatles;rock
+Norwegian Wood (This Bird Has Flown) - Remastered 2009;The Beatles;rock
+And I Love Her - Remastered 2009;The Beatles;rock
+All My Loving - Remastered 2009;The Beatles;rock
+Something - Remastered 2009;The Beatles;rock
+Eleanor Rigby - Remastered 2009;The Beatles;rock
+Ob-La-Di, Ob-La-Da - Remastered 2009;The Beatles;rock
+Help! - Remastered 2009;The Beatles;rock
+Love Me Do - Remastered 2009;The Beatles;rock
+Get Back - Remastered 2009;The Beatles;rock
+Can't Buy Me Love - Remastered 2009;The Beatles;rock
+You've Got To Hide Your Love Away - Remastered 2009;The Beatles;rock
+Here, There And Everywhere - Remastered 2009;The Beatles;rock
+I Will - Remastered 2009;The Beatles;rock
+I Saw Her Standing There - Remastered 2009;The Beatles;rock
+A Hard Day's Night - Remastered 2009;The Beatles;rock
+Michelle - Remastered 2009;The Beatles;rock
+While My Guitar Gently Weeps - Remastered 2009;The Beatles;rock
+Golden Slumbers - Remastered 2009;The Beatles;rock
+I'll Follow The Sun - Remastered 2009;The Beatles;rock
+Ticket To Ride - Remastered 2009;The Beatles;rock
+If I Fell - Remastered 2009;The Beatles;rock
+Hey Jude - Remastered 2015;The Beatles;rock
+Till There Was You - Remastered 2009;The Beatles;rock
+The Long And Winding Road - Remastered 2009;The Beatles;rock
+Eight Days A Week - Remastered 2009;The Beatles;rock
+Girl - Remastered 2009;The Beatles;rock
+Day Tripper - Remastered 2009;The Beatles;rock
+With A Little Help From My Friends - Remastered 2009;The Beatles;rock
+Don't Let Me Down - Remastered 2009;The Beatles;rock
+Drive My Car - Remastered 2009;The Beatles;rock
+For No One - Remastered 2009;The Beatles;rock
+Do You Want To Know A Secret - Remastered 2009;The Beatles;rock
+Oh! Darling - Remastered 2009;The Beatles;rock
+Nowhere Man - Remastered 2009;The Beatles;rock
+She Loves You - Mono Version / Remastered 2009;The Beatles;rock
+When I'm Sixty Four - Remastered 2009;The Beatles;rock
+Now And Then;The Beatles;rock
+Across The Universe - Remastered 2009;The Beatles;rock
+Octopus's Garden - Remastered 2009;The Beatles;rock
+All You Need Is Love - Remastered 2009;The Beatles;rock
+Lucy In The Sky With Diamonds - Remastered 2009;The Beatles;rock
+We Can Work It Out - Remastered 2009;The Beatles;rock
+I've Just Seen A Face - Remastered 2009;The Beatles;rock
+Man in the Box;Alice In Chains;rock
+Would? (2022 Remaster);Alice In Chains;rock
+Nutshell;Alice In Chains;rock
+Heaven Beside You;Alice In Chains;rock
+We Die Young;Alice In Chains;rock
+Them Bones (2022 Remaster);Alice In Chains;rock
+No Excuses;Alice In Chains;rock
+Check My Brain;Alice In Chains;rock
+Bleed The Freak;Alice In Chains;rock
+Rooster (2022 Remaster);Alice In Chains;rock
+I Stay Away;Alice In Chains;rock
+Again;Alice In Chains;rock
+Sludge Factory - Live at the Majestic Theatre, Brooklyn, NY - April 1996;Alice In Chains;rock
+Down In A Hole (2022 Remaster);Alice In Chains;rock
+Rotten Apple;Alice In Chains;rock
+It Ain't Like That;Alice In Chains;rock
+Brother - Live at the Majestic Theatre, Brooklyn, NY - April 1996;Alice In Chains;rock
+Dam That River (2022 Remaster);Alice In Chains;rock
+Don't Follow;Alice In Chains;rock
+Love, Hate, Love;Alice In Chains;rock
+Got Me Wrong;Alice In Chains;rock
+Rain When I Die (2022 Remaster);Alice In Chains;rock
+Stone;Alice In Chains;rock
+Sea Of Sorrow;Alice In Chains;rock
+Whale & Wasp;Alice In Chains;rock
+Your Decision;Alice In Chains;rock
+Grind;Alice In Chains;rock
+Right Turn;Alice In Chains;rock
+This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains];The HU;rock
+Black Gives Way To Blue;Alice In Chains;rock
+Shame In You;Alice In Chains;rock
+Frogs - Live at the Majestic Theatre, Brooklyn, NY - April 1996;Alice In Chains;rock
+Voices;Alice In Chains;rock
+The One You Know;Alice In Chains;rock
+God Am;Alice In Chains;rock
+Over Now - Live at the Majestic Theatre, Brooklyn, NY - April 1996;Alice In Chains;rock
+What the Hell Have I;Alice In Chains;rock
+Hollow;Alice In Chains;rock
+Brush Away;Alice In Chains;rock
+Never Fade;Alice In Chains;rock
+The Killer Is Me - Live at the Majestic Theatre, Brooklyn, NY - April 1996;Alice In Chains;rock
+Lesson Learned;Alice In Chains;rock
+Get Born Again;Alice In Chains;rock
+Rainier Fog;Alice In Chains;rock
+Am I Inside;Alice In Chains;rock
+A Looking In View;Alice In Chains;rock
+Fly;Alice In Chains;rock
+All Secrets Known;Alice In Chains;rock
+So Far Under;Alice In Chains;rock
+Red Giant;Alice In Chains;rock
+Like a Stone;Audioslave;rock
+Be Yourself;Audioslave;rock
+Sound Of A Gun;Audioslave;rock
+We Got The Whip;Audioslave;rock
+Show Me How to Live;Audioslave;rock
+Doesn't Remind Me;Audioslave;rock
+Revelations;Audioslave;rock
+Doesn't Remind Me - Live from Sessions@AOL Music;Audioslave;rock
+I Am the Highway;Audioslave;rock
+Out Of Exile;Audioslave;rock
+Wide Awake;Audioslave;rock
+Sleep Now In the Fire - Live from Sessions@AOL Music;Audioslave;rock
+Cochise;Audioslave;rock
+Your Time Has Come;Audioslave;rock
+Original Fire;Audioslave;rock
+Loud Love - Live from Sessions@AOL Music;Audioslave;rock
+Gasoline;Audioslave;rock
+The Worm;Audioslave;rock
+Shape of Things to Come;Audioslave;rock
+Black Hole Sun / Like a Stone - Live at Live 8, Siegess�ule, Berlin, 2nd July 2005;Audioslave;rock
+What You Are;Audioslave;rock
+Heaven's Dead;Audioslave;rock
+Until We Fall;Audioslave;rock
+Super Stupid - Live BBC Radio 1 Session;Audioslave;rock
+Give;Audioslave;rock
+Seven Nation Army;Audioslave;rock
+White Riot;Audioslave;rock
+(What's So Funny 'Bout) Peace, Love And Understanding;Audioslave;rock
+Techno Ted;Audioslave;rock
+Paranoid - 2009 Remaster;Black Sabbath;rock
+N.I.B. (2009 - Remaster);Black Sabbath;rock
+Orchid (2009 - Remaster);Black Sabbath;rock
+Heaven and Hell;Black Sabbath;rock
+Iron Man - 2009 Remaster;Black Sabbath;rock
+Sabbath Bloody Sabbath (2009 - Remaster);Black Sabbath;rock
+Children of the Grave (2009 - Remaster);Black Sabbath;rock
+Children of the Sea;Black Sabbath;rock
+War Pigs - 2009 Remaster;Black Sabbath;rock
+Sabbra Cadabra (2009 - Remaster);Black Sabbath;rock
+Solitude (2009 - Remaster);Black Sabbath;rock
+The Wizard (2009 - Remaster);Black Sabbath;rock
+Planet Caravan - 2009 Remaster;Black Sabbath;rock
+God Is Dead?;Black Sabbath;rock
+Sweet Leaf - 2014 Remaster;Black Sabbath;rock
+Black Sabbath (2009 - Remaster);Black Sabbath;rock
+Electric Funeral - 2009 Remaster;Black Sabbath;rock
+Die Young;Black Sabbath;rock
+Into the Void (2009 - Remaster);Black Sabbath;rock
+Loner;Black Sabbath;rock
+Fairies Wear Boots - 2009 Remaster;Black Sabbath;rock
+Neon Knights;Black Sabbath;rock
+Lord of this World (2009 - Remaster);Black Sabbath;rock
+Evil Woman, Don't Play Your Games with Me (2009 - Remaster);Black Sabbath;rock
+A National Acrobat (2009 - Remaster);Black Sabbath;rock
+Snowblind (2009 - Remaster);Black Sabbath;rock
+Never Say Die (2009 - Remaster);Black Sabbath;rock
+Behind the Wall of Sleep (2009 - Remaster);Black Sabbath;rock
+Killing Yourself to Live (2009 - Remaster);Black Sabbath;rock
+Symptom of the Universe (2009 - Remaster);Black Sabbath;rock
+Lady Evil;Black Sabbath;rock
+Headless Cross - 2024 Remaster;Black Sabbath;rock
+No Stranger to Love (2009 Remaster);Black Sabbath;rock
+Hole in the Sky (2009 - Remaster);Black Sabbath;rock
+The Mob Rules;Black Sabbath;rock
+Sleeping Village (2009 - Remaster);Black Sabbath;rock
+Supernaut (2009 - Remaster);Black Sabbath;rock
+Wishing Well;Black Sabbath;rock
+Devil & Daughter - 2024 Remaster;Black Sabbath;rock
+Tomorrow's Dream - 2021 Remaster;Black Sabbath;rock
+Zeitgeist;Black Sabbath;rock
+Fluff (2009 - Remaster);Black Sabbath;rock
+I - 2011 Remaster;Black Sabbath;rock
+When Death Calls - 2024 Remaster;Black Sabbath;rock
+The Sign of the Southern Cross;Black Sabbath;rock
+Wasp / Behind the Wall of Sleep / Bassically / N.I.B. - 2014 Remaster;Black Sabbath;rock
+Jerusalem - 2024 Remaster;Black Sabbath;rock
+Call of the Wild - 2024 Remaster;Black Sabbath;rock
+Cross of Thorns - 2024 Remaster;Black Sabbath;rock
+Looking for Today (2009 - Remaster);Black Sabbath;rock
+The Trooper - 2015 Remaster;Iron Maiden;rock
+Run to the Hills - 2015 Remaster;Iron Maiden;rock
+Fear of the Dark - 2015 Remaster;Iron Maiden;rock
+Wasted Years - 2015 Remaster;Iron Maiden;rock
+Flight of Icarus - 2015 Remaster;Iron Maiden;rock
+The Number of the Beast - 2015 Remaster;Iron Maiden;rock
+2 Minutes to Midnight - 2015 Remaster;Iron Maiden;rock
+Wasting Love - 2015 Remaster;Iron Maiden;rock
+Can I Play with Madness - 2015 Remaster;Iron Maiden;rock
+Hallowed Be Thy Name - 2015 Remaster;Iron Maiden;rock
+Aces High - 2015 Remaster;Iron Maiden;rock
+Be Quick or Be Dead - 2015 Remaster;Iron Maiden;rock
+The Evil That Men Do - 2015 Remaster;Iron Maiden;rock
+The Wicker Man - 2015 Remaster;Iron Maiden;rock
+Flash of the Blade - 2015 Remaster;Iron Maiden;rock
+The Writing on the Wall;Iron Maiden;rock
+Children of the Damned - 2015 Remaster;Iron Maiden;rock
+Dance of Death - 2015 Remaster;Iron Maiden;rock
+Caught Somewhere in Time - 2015 Remaster;Iron Maiden;rock
+Blood Brothers - 2015 Remaster;Iron Maiden;rock
+Wrathchild - 2015 Remaster;Iron Maiden;rock
+Days Of Future Past;Iron Maiden;rock
+From Here to Eternity - 2015 Remaster;Iron Maiden;rock
+Brave New World - 2015 Remaster;Iron Maiden;rock
+Phantom of the Opera - 2015 Remaster;Iron Maiden;rock
+Stranger in a Strange Land - 2015 Remaster;Iron Maiden;rock
+Afraid to Shoot Strangers - 2015 Remaster;Iron Maiden;rock
+Powerslave - 2015 Remaster;Iron Maiden;rock
+Running Free - 2015 Remaster;Iron Maiden;rock
+The Prisoner - 2015 Remaster;Iron Maiden;rock
+Alexander the Great (356-323 B.C.) - 2015 Remaster;Iron Maiden;rock
+Stratego;Iron Maiden;rock
+Seventh Son of a Seventh Son - 2015 Remaster;Iron Maiden;rock
+Revelations - 2015 Remaster;Iron Maiden;rock
+22 Acacia Avenue - 2015 Remaster;Iron Maiden;rock
+Prowler - 2015 Remaster;Iron Maiden;rock
+Infinite Dreams - 2015 Remaster;Iron Maiden;rock
+Rainmaker - 2015 Remaster;Iron Maiden;rock
+Where Eagles Dare - 2015 Remaster;Iron Maiden;rock
+Ghost of the Navigator - 2015 Remaster;Iron Maiden;rock
+The Clairvoyant - 2015 Remaster;Iron Maiden;rock
+Heaven Can Wait - 2015 Remaster;Iron Maiden;rock
+Rime of the Ancient Mariner - 2015 Remaster;Iron Maiden;rock
+Die with Your Boots On - 2015 Remaster;Iron Maiden;rock
+Bring Your Daughter... to the Slaughter - 2015 Remaster;Iron Maiden;rock
+The Loneliness of the Long Distance Runner - 2015 Remaster;Iron Maiden;rock
+The Time Machine;Iron Maiden;rock
+Moonchild - 2015 Remaster;Iron Maiden;rock
+Judas Be My Guide - 2015 Remaster;Iron Maiden;rock
+Transylvania - 2015 Remaster;Iron Maiden;rock
+Black Hole Sun;Soundgarden;rock
+Spoonman;Soundgarden;rock
+Burden In My Hand;Soundgarden;rock
+Outshined - Remastered 2016;Soundgarden;rock
+Fell On Black Days;Soundgarden;rock
+Hunted Down - Remastered;Soundgarden;rock
+Pretty Noose;Soundgarden;rock
+Rusty Cage - Remastered 2016;Soundgarden;rock
+The Day I Tried To Live;Soundgarden;rock
+Superunknown;Soundgarden;rock
+Blow Up The Outside World;Soundgarden;rock
+Jesus Christ Pose - Remastered 2016;Soundgarden;rock
+4th Of July;Soundgarden;rock
+Live to Rise;Soundgarden;rock
+Black Rain;Soundgarden;rock
+Slaves & Bulldozers - Remastered 2016;Soundgarden;rock
+My Wave;Soundgarden;rock
+Flower;Soundgarden;rock
+Fresh Tendrils;Soundgarden;rock
+Zero Chance;Soundgarden;rock
+Mailman;Soundgarden;rock
+Room A Thousand Years Wide - Remastered 2016;Soundgarden;rock
+Head Down;Soundgarden;rock
+Rhinosaur;Soundgarden;rock
+Been Away Too Long;Soundgarden;rock
+Drawing Flies - Remastered 2016;Soundgarden;rock
+Limo Wreck;Soundgarden;rock
+Tighter & Tighter;Soundgarden;rock
+Halfway There;Soundgarden;rock
+Nothing to Say - Remastered;Soundgarden;rock
+Half;Soundgarden;rock
+Beyond the Wheel;Soundgarden;rock
+By Crooked Steps;Soundgarden;rock
+Birth Ritual;Soundgarden;rock
+Hands All Over;Soundgarden;rock
+Heretic;Soundgarden;rock
+Bones Of Birds;Soundgarden;rock
+All Your Lies;Soundgarden;rock
+Loud Love;Soundgarden;rock
+Come Together;Soundgarden;rock
+Non-State Actor;Soundgarden;rock
+667;Soundgarden;rock
+Gun;Soundgarden;rock
+Helter Skelter - Live At Crosby Hall, Del Mar/1996;Soundgarden;rock
+A Thousand Days Before;Soundgarden;rock
+Mood for Trouble;Soundgarden;rock
+Big Dumb Sex;Soundgarden;rock
+Sub Pop Rock City - Remastered;Soundgarden;rock
+Smokestack Lightning;Soundgarden;rock
+Ugly Truth;Soundgarden;rock

@@ -45,8 +45,8 @@ genius = Genius(token)
 def print_letras(arquivo, database_file):
     
 
-    with open(database_file, "w") as database:
-        database.write("Track_name;Artist_Name;genra;lyrics\n")
+    with open(database_file, "a") as database:
+        #database.write("Track_name;Artist_Name;genra;lyrics\n")
 
         with open(arquivo, "r") as file:
             for line in file:

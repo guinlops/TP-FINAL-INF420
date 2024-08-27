@@ -94,8 +94,8 @@ def get_playlist_obj(token, playlist_name):
 def print_tracks(tracks,playlist_genra):
     
     try:
-        with open("tracks.txt", "w") as arquivo:
-            print("Track_name;Artist_Name;genra",file=arquivo)
+        with open("tracks.txt", "a") as arquivo:
+            #print("Track_name;Artist_Name;genra",file=arquivo)
             for track in tracks:
                 song_name = track["track"]["name"]
                 artist_name = track["track"]["artists"][0]["name"]
@@ -115,7 +115,30 @@ def get_playlist(playlist_name,playlist_genra):
 
 
 def main():
-    get_playlist("Country Gold","country") 
-
+    playlists = [
+        "This is Metallica",
+        "This is Led Zeppelin",
+        "This is Pink Floyd",
+        "This is Jimi Hendrix",
+        "This is Van Halen",
+        "This is Queen",
+        "This is Eagles",
+        "This is U2",
+        "This is The Rolling Stones",
+        "This is Pearl Jam",
+        "This is Aerosmith",
+        "This is Red Hot Chili Peppers",
+        "This is Dire Straits",
+        "This is Nirvana",
+        "This is The Beatles",
+        "This is Alice In Chains",
+        "This is Audioslave",
+        "This is Black Sabbath",
+        "This is Iron Maiden",
+        "This is Soundgarden"
+    ]
+    
+    for playlist in playlists:
+        get_playlist(playlist, "rock")  # Passando o gênero como "rock" para todas as playlists
 if __name__ == '__main__':
     main()
