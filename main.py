@@ -6,12 +6,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding, LSTM, Dense, Dropout, BatchNormalization
-from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam, SGD, Nadam
 from tensorflow.keras.callbacks import EarlyStopping
 import matplotlib.pyplot as plt
 
 # Carregar os dados
 df = pd.read_csv('db.csv', sep=';', header=None)
+df.head()
+pass
 
 # Seleciona as colunas 'genras' e 'lyrics'
 genras = df.iloc[:, 2]
@@ -28,6 +30,7 @@ lyrics = df.iloc[:, 3].values
 df = df.drop(columns=df.columns[4:])
 
 print(len(genras), len(lyrics))
+
 
 # 1. Treinar Word2Vec
 sentences = [lyric.split() for lyric in lyrics]  # Divide as letras em palavras
@@ -64,16 +67,22 @@ model.add(LSTM(32))
 model.add(Dense(64, activation='relu'))
 model.add(Dense(num_classes, activation='softmax'))  # Softmax para multi-classes
 
-model.compile(optimizer=Adam(learning_rate=0.0001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+#model.compile(optimizer=Adam(learning_rate=0.00001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+
+#model.compile(optimizer=SGD(learning_rate=0.001, momentum=0.9), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+
+model.compile(optimizer=Nadam(learning_rate=0.001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
 # Early stopping to prevent overfitting
-early_stopping = EarlyStopping(monitor='val_loss', patience=3, restore_best_weights=True)
+early_stopping = EarlyStopping(monitor='val_loss', patience=100, restore_best_weights=True)
 
 # Treinamento do modelo
-model.fit(X_train, y_train, epochs=30, batch_size=64, validation_split=0.2, callbacks=[early_stopping])
+model.fit(X_train, y_train, epochs=1000, batch_size=64, validation_split=0.2, callbacks=[early_stopping])
+
 
 # 5. Avaliação no conjunto de teste
 loss, accuracy = model.evaluate(X_test, y_test)
+
 print(f'Test accuracy: {accuracy}')
 
 # Função para plotar a contagem de gêneros musicais
@@ -99,7 +108,9 @@ def plot_genre_counts():
         ax.text(p.get_x() + p.get_width() / 2.0, height, int(height), ha='center', va='bottom', fontsize=12)
 
     # Mostrar o gráfico
-    plt.show()
+    #plt.show()
+    plt.pause(2)  # Exibe o gráfico por 2 segundos
+    plt.close()
 
 # Exemplo de uso
 plot_genre_counts()
