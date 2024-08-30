@@ -12,8 +12,7 @@ import matplotlib.pyplot as plt
 
 # Carregar os dados
 df = pd.read_csv('db.csv', sep=';', header=None)
-df.head()
-pass
+#df = pd.read_csv('db.csv', sep=';', header=None, low_memory=False)
 
 # Seleciona as colunas 'genras' e 'lyrics'
 genras = df.iloc[:, 2]
@@ -67,17 +66,17 @@ model.add(LSTM(32))
 model.add(Dense(64, activation='relu'))
 model.add(Dense(num_classes, activation='softmax'))  # Softmax para multi-classes
 
-#model.compile(optimizer=Adam(learning_rate=0.00001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+model.compile(optimizer=Adam(learning_rate=0.001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
-#model.compile(optimizer=SGD(learning_rate=0.001, momentum=0.9), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+#model.compile(optimizer=SGD(learning_rate=0.001, momentum=0.6), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
-model.compile(optimizer=Nadam(learning_rate=0.001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+#model.compile(optimizer=Nadam(learning_rate=0.001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
 # Early stopping to prevent overfitting
-early_stopping = EarlyStopping(monitor='val_loss', patience=100, restore_best_weights=True)
+early_stopping = EarlyStopping(monitor='val_loss', patience=5, restore_best_weights=True)
 
 # Treinamento do modelo
-model.fit(X_train, y_train, epochs=1000, batch_size=64, validation_split=0.2, callbacks=[early_stopping])
+model.fit(X_train, y_train, epochs=30, batch_size=64, validation_split=0.2, callbacks=[early_stopping])
 
 
 # 5. Avaliação no conjunto de teste
