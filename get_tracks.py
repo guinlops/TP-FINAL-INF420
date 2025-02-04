@@ -116,29 +116,14 @@ def get_playlist(playlist_name,playlist_genra):
 
 def main():
     playlists = [
-        "This is Metallica",
-        "This is Led Zeppelin",
-        "This is Pink Floyd",
-        "This is Jimi Hendrix",
-        "This is Van Halen",
-        "This is Queen",
-        "This is Eagles",
-        "This is U2",
-        "This is The Rolling Stones",
-        "This is Pearl Jam",
-        "This is Aerosmith",
-        "This is Red Hot Chili Peppers",
-        "This is Dire Straits",
-        "This is Nirvana",
-        "This is The Beatles",
-        "This is Alice In Chains",
-        "This is Audioslave",
-        "This is Black Sabbath",
-        "This is Iron Maiden",
-        "This is Soundgarden"
+        "Lauryn Hill",
+        "This is Gucci Mane",
+        "This is Kurtis Blow"
+
+       
     ]
     
     for playlist in playlists:
-        get_playlist(playlist, "rock")  # Passando o gênero como "rock" para todas as playlists
+        get_playlist(playlist, "Hip-Hop")  # Passando o gênero como "rock" para todas as playlists
 if __name__ == '__main__':
     main()
